@@ -43,6 +43,8 @@ http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9254
 http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9298
 #EXTINF:0 tvg-id="ext" group-title="Albania",Film Aksion
 http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9300
+#EXTINF:0 tvg-id="ext" group-title="Albania",Film Komedi Backup
+http://topstb.com:8000/50656250782258/27115840859269/190217
 #EXTINF:0 tvg-id="FilmDyHD.al" group-title="Albania",Film DY
 http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9294
 #EXTINF:0 tvg-id="FilmDrame.al" group-title="Albania",Film Dramë
