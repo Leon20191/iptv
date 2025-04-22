@@ -1,347 +1,1355 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Albania",-= Albania =-
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9356
-#EXTINF:0 tvg-id="ext" group-title="Albania",Report TV
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19589
-#EXTINF:0 tvg-id="ABCNews.al" group-title="Albania",ABC News
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19576
-#EXTINF:0 tvg-id="ext" group-title="Albania",Alb Action HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19569
-#EXTINF:0 tvg-id="ext" group-title="Albania",Alb Folk
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9082
-#EXTINF:0 tvg-id="ext" group-title="Albania",Alb Hits
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9111
-#EXTINF:0 tvg-id="ext" group-title="Albania",Alb Thriller HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19570
-#EXTINF:0 tvg-id="BangBang.al" group-title="Albania",Bang Bang
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9351
-#EXTINF:0 tvg-id="ext" group-title="Albania",BBF Music HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9064
-#EXTINF:0 tvg-id="ext" group-title="Albania",Besa TV
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9069
-#EXTINF:0 tvg-id="BabyTV.al" group-title="Albania",Baby TV
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9326
-#EXTINF:0 tvg-id="CufoTV.al" group-title="Albania",Çufo
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9353
-#EXTINF:0 tvg-id="DiscoveryChannel.al" group-title="Albania",Discovery Channel AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9320
-#EXTINF:0 tvg-id="ext" group-title="Albania",Junior TV HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19778
-#EXTINF:0 tvg-id="ext" group-title="Albania",Dielli TV
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19764
-#EXTINF:0 tvg-id="ext" group-title="Albania",Dukagjini FHD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19577
-#EXTINF:0 tvg-id="ext" group-title="Albania",Elrodi TV
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9083
-#EXTINF:0 tvg-id="EXPNatyra.al" group-title="Albania",Exp Natyra
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19568
-#EXTINF:0 tvg-id="EXPHistori.al" group-title="Albania",Exp Histori
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19564
-#EXTINF:0 tvg-id="ext" group-title="Albania",FilmBox Extra HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9254
-#EXTINF:0 tvg-id="FilmAutor.al" group-title="Albania",Film Autor
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9298
-#EXTINF:0 tvg-id="ext" group-title="Albania",Film Aksion
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9300
-#EXTINF:0 tvg-id="ext" group-title="Albania",Film Komedi Backup
-http://topstb.com:8000/50656250782258/27115840859269/190456
-#EXTINF:0 tvg-id="FilmDyHD.al" group-title="Albania",Film DY
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9294
-#EXTINF:0 tvg-id="FilmDrame.al" group-title="Albania",Film Dramë
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9297
-#EXTINF:0 tvg-id="FilmThriller.al" group-title="Albania",Film Thriller
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9299
-#EXTINF:0 tvg-id="ext" group-title="Albania",Film Hits
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9303
-#EXTINF:0 tvg-id="ext" group-title="Albania",Film HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19566
-#EXTINF:0 tvg-id="FirstChannel.al" group-title="Albania",First Channel
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19560
-#EXTINF:0 tvg-id="ext" group-title="Albania",Folk + FHD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9061
-#EXTINF:0 tvg-id="FoxCrime.al" group-title="Albania",Fox Crime
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9284
-#EXTINF:0 tvg-id="ext" group-title="Albania",Fox Life HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9285
-#EXTINF:0 tvg-id="ext" group-title="Albania",Fox Movies
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9286
-#EXTINF:0 tvg-id="ext" group-title="Albania",T7
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9175
-#EXTINF:0 tvg-id="musicAL.al" group-title="Albania",Music
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9072
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH 3 HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19590
-#EXTINF:0 tvg-id="RrokumTV.al" group-title="Albania",Rrokum TV
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19584
-#EXTINF:0 tvg-id="PeaceTV.al" group-title="Albania",Peace TV
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19562
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Albania",Klan TV
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11085
-#EXTINF:0 tvg-id="KlanKosova.al" group-title="Albania",Klan Kosova
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11091
-#EXTINF:0 tvg-id="ext" group-title="Albania",Klan Plus
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11084
-#EXTINF:0 tvg-id="ext" group-title="Albania",Kujtesa Sport 1 HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19595
-#EXTINF:0 tvg-id="ext" group-title="Albania",Kujtesa Sport 2 HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19596
-#EXTINF:0 tvg-id="ext" group-title="Albania",Kujtesa Sport 4 HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19598
-#EXTINF:0 tvg-id="KTV.al" group-title="Albania",KTV
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11093
-#EXTINF:0 tvg-id="Living.al" group-title="Albania",Living HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19580
-#EXTINF:0 tvg-id="ext" group-title="Albania",Mekke Live HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19581
-#EXTINF:0 tvg-id="ext" group-title="Albania",Top Estrada TV HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9110
-#EXTINF:0 tvg-id="MyMusic.al" group-title="Albania",My Music
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9071
-#EXTINF:0 tvg-id="Muse.al" group-title="Albania",Muse
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9309
-#EXTINF:0 tvg-id="News24.al" group-title="Albania",News 24
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19583
-#EXTINF:0 tvg-id="OraNews.al" group-title="Albania",Ora News
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19561
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTV Islam
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19626
-#EXTINF:0 tvg-id="RTV21.al" group-title="Albania",RTV21
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11097
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTV21 Junior
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19575
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTV21 Maqedonia AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11095
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTV21 Mix AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11096
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTV21 Popullore AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9073
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH 2 HD AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19591
-#EXTINF:0 tvg-id="RTK.al" group-title="Albania",RTK 1
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11102
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTK 2
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11101
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTK 3 HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11100
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTK 4
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11099
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH Sport
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19593
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH Muzike
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19592
-#EXTINF:0 tvg-id="TipTv.al" group-title="Albania",Tip TV
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9340
-#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Albania",Top Channel
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11088
-#EXTINF:0 tvg-id="ext" group-title="Albania",Tirana TV AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19587
-#EXTINF:0 tvg-id="ext" group-title="Albania",Tring 3+ HD AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19573
-#EXTINF:0 tvg-id="TringComedy.al" group-title="Albania",Tring Comedy
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15477
-#EXTINF:0 tvg-id="TringFantazi.al" group-title="Albania",Tring Fantasy
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15476
-#EXTINF:0 tvg-id="T-Hist.al" group-title="Albania",Tring History
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15475
-#EXTINF:0 tvg-id="JollyHD.al" group-title="Albania",Tring Jolly
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15474
-#EXTINF:0 tvg-id="TringLife.al" group-title="Albania",Tring Life
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15473
-#EXTINF:0 tvg-id="ext" group-title="Albania",Tring Kids
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19766
-#EXTINF:0 tvg-id="TringPlanet.al" group-title="Albania",Tring Planet
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9312
-#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="Albania",Tring Shqip
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15470
-#EXTINF:0 tvg-id="ext" group-title="Albania",Tring Super
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19572
-#EXTINF:0 tvg-id="Smile.al" group-title="Albania",Tring Smile
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9343
-#EXTINF:0 tvg-id="TringWorld.al" group-title="Albania",Tring World
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9313
-#EXTINF:0 tvg-id="TS1HD.al" group-title="Albania",Tring Sport 1 HD 
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15469
-#EXTINF:0 tvg-id="TS2HD.al" group-title="Albania",Tring Sport 2 HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15468
-#EXTINF:0 tvg-id="TS3HD.al" group-title="Albania",Tring Sport 3 HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15467
-#EXTINF:0 tvg-id="TS4HD.al" group-title="Albania",Tring Sport 4 HD
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15466
-#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Albania",Tring Sport News AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15465
-#EXTINF:0 tvg-id="ext" group-title="Albania",Turbo Channel AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19765
-#EXTINF:0 tvg-id="ext" group-title="Albania",TV Mitrovica AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19582
-#EXTINF:0 tvg-id="ext" group-title="Albania",TV Opoja HD AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19574
-#EXTINF:0 tvg-id="ext" group-title="Albania",TV Koha AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19578
-#EXTINF:0 tvg-id="ext" group-title="Albania",Syri TV AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19761
-#EXTINF:0 tvg-id="T.al" group-title="Albania",T HD AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19762
-#EXTINF:0 tvg-id="TopNews.al" group-title="Albania",Top News AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19629
-#EXTINF:0 tvg-id="ONTV.al" group-title="Albania",ON TV AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19758
-#EXTINF:0 tvg-id="STVFolk.al" group-title="Albania",STV Folk AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9062
-#EXTINF:0 tvg-id="ext" group-title="Albania",Sofia TV AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19752
-#EXTINF:0 tvg-id="FilmAksion.al" group-title="Albania",Sky Aksion AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9251
-#EXTINF:0 tvg-id="ext" group-title="Albania",Sky Dramë AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9248
-#EXTINF:0 tvg-id="FilmKomedi.al" group-title="Albania",Sky Komedi AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9249
-#EXTINF:0 tvg-id="ext" group-title="Albania",Sky Novela AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9247
-#EXTINF:0 tvg-id="EXPShkence.al" group-title="Albania",Sky Shkence AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19563
-#EXTINF:0 tvg-id="SuperSonicTV.al" group-title="Albania",Supersonic TV AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9068
-#EXTINF:0 tvg-id="ext" group-title="Albania",Super Sport News HD AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15464
-#EXTINF:0 tvg-id="ext" group-title="Albania",Super Sport 2 HD AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15463
-#EXTINF:0 tvg-id="ext" group-title="Albania",Super Sport 3 HD AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15462
-#EXTINF:0 tvg-id="ext" group-title="Albania",Super Sport 4 HD AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15461
-#EXTINF:0 tvg-id="ext" group-title="Albania",Super Sport 5 HD AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/15460
-#EXTINF:0 tvg-id="ext" group-title="Albania",Zico TV FHD AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9084
-#EXTINF:0 tvg-id="VizionPlus.al" group-title="Albania",Vizion Plus HD AL
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/11090
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Super Sport 1 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62632
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Super Sport 2 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62633
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Super Sport 2 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/33532
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Super Sport 3 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62634
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Super Sport 3 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/33533
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Super Sport 4 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62635
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Super Sport 4 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/33534
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Super Sport 5 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62636
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Super Sport 5 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/33535
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Super Sport Kosova 2 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62655
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Super Sport News HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/33531
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Supersonic TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/33530
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| SuperSport 1
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62637
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| SuperSport 1 SD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62627
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| SuperSport 2
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62638
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| SuperSport 2 SD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62628
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| SuperSport 3
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62639
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| SuperSport 3 SD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62629
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| SuperSport 4
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62640
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| SuperSport 4 SD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62631
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| SuperSport 5
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62641
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| SuperSport 5 SD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62630
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| SuperSport 6 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62642
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Tring Sport 1 FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62643
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Tring Sport 1 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/33505
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Tring Sport 2 FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62644
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Tring Sport 2 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/33506
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Tring Sport 3 FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62645
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Tring Sport 3 FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/33507
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Tring Sport 4 FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62646
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Tring Sport 4 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/33508
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Tring Sport News
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/33509
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| K SPORT 2 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62647
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| K SPORT 3 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/33457
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| K SPORT 1 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62652
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Kujtesa Sport 2
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62648
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Kujtesa Sport 2 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/33458
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Kujtesa Sport 2 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62653
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Kujtesa Sport 3
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62649
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Kujtesa Sport 4
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62650
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| Kujtesa Sport 5 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62651
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| ART Sport 1 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62656
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| ART Sport 2 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62657
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|ALB| ART Sport 3 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/62658
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| ART SPORT 1 4K
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156719
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| ART SPORT 2 4K
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156720
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| ART SPORT 3 4K
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156721
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| FIGHT BOX
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156736
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| KUJTESA SPORT 1
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156714
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| KUJTESA SPORT 2
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156715
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| KUJTESA SPORT 3
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156716
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| KUJTESA SPORT 4
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156717
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| KUJTESA SPORT 5
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156718
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| SUPER SPORT 1 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156708
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| SUPER SPORT 2 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156709
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| SUPER SPORT 3 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156710
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| SUPER SPORT 4 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156711
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| SUPER SPORT 5 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156712
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| SUPER SPORT 6 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156713
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| TRING SPORT 1 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156704
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| TRING SPORT 2 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156705
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| TRING SPORT 3 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156706
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| TRING SPORT 4 4K
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156735
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| TRING SPORT 4 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156707
-#EXTINF:0 tvg-id="ext" group-title="| SPORTS |",|AL| TRING SPORT NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/156703
+#EXTINF:-1 tvg-id="" tvg-name="##### ALB GENERAL #####" tvg-logo="http://103.176.90.118/picons/logos/logos/ALBANIA.png" group-title="ALBANIA",##### ALB GENERAL #####
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/196715
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FERMA VIP 1" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/FERMA-VIP.png" group-title="ALBANIA",ALB| FERMA VIP 1
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1759240
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FERMA VIP 2" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/FERMA-VIP.png" group-title="ALBANIA",ALB| FERMA VIP 2
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1759239
+#EXTINF:-1 tvg-id="" tvg-name="ALB| BIG BROTHER VIP ALBANIA 1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/BIG-BROTHER-VIP-ALBANIA.png" group-title="ALBANIA",ALB| BIG BROTHER VIP ALBANIA 1 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1735516
+#EXTINF:-1 tvg-id="" tvg-name="ALB| BIG BROTHER VIP ALBANIA 2 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/BIG-BROTHER-VIP-ALBANIA.png" group-title="ALBANIA",ALB| BIG BROTHER VIP ALBANIA 2 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1735517
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="ALB| TOP CHANNEL 4K" tvg-logo="http://103.176.90.118/picons/logos/topchannel.png" group-title="ALBANIA",ALB| TOP CHANNEL 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116369
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="ALB| TOP CHANNEL HD" tvg-logo="http://103.176.90.118/picons/logos/topchannel.png" group-title="ALBANIA",ALB| TOP CHANNEL HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116177
+#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="ALB| TV KLAN 4K" tvg-logo="http://103.176.90.118/picons/logos/klanhd.png" group-title="ALBANIA",ALB| TV KLAN 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116370
+#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="ALB| TV KLAN HD" tvg-logo="http://103.176.90.118/picons/logos/klanhd.png" group-title="ALBANIA",ALB| TV KLAN HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116108
+#EXTINF:-1 tvg-id="KlanPlus.al" tvg-name="ALB| KLAN PLUS HD" tvg-logo="http://103.176.90.118/picons/logos/klanplus.png" group-title="ALBANIA",ALB| KLAN PLUS HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116107
+#EXTINF:-1 tvg-id="KlanPlus.al" tvg-name="ALB| KLAN PLUS" tvg-logo="http://103.176.90.118/picons/logos/klanplus.png" group-title="ALBANIA",ALB| KLAN PLUS
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116106
+#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="ALB| VIZION PLUS 4K" tvg-logo="http://103.176.90.118/picons/logos/vizionplus.png" group-title="ALBANIA",ALB| VIZION PLUS 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116208
+#EXTINF:-1 tvg-id="" tvg-name="ALB| VIZION PLUS HD" tvg-logo="http://103.176.90.118/picons/logos/vizionplus.png" group-title="ALBANIA",ALB| VIZION PLUS HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116209
+#EXTINF:-1 tvg-id="RTSH24.al" tvg-name="ALB| RTSH 24" tvg-logo="http://103.176.90.118/picons/logos/rtsh24.png" group-title="ALBANIA",ALB| RTSH 24
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1008369
+#EXTINF:-1 tvg-id="RTSH1.al" tvg-name="ALB| RTSH SAT" tvg-logo="http://103.176.90.118/picons/logos/rtsh1hd.png" group-title="ALBANIA",ALB| RTSH SAT
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116126
+#EXTINF:-1 tvg-id="RTSH1.al" tvg-name="ALB| RTSH 1" tvg-logo="http://103.176.90.118/picons/logos/rtsh1.png" group-title="ALBANIA",ALB| RTSH 1
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116125
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTSH 2 HD" tvg-logo="http://103.176.90.118/picons/logos/RTSH-2-HD.jpeg" group-title="ALBANIA",ALB| RTSH 2 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116127
+#EXTINF:-1 tvg-id="RTSH3.al" tvg-name="ALB| RTSH 3" tvg-logo="http://103.176.90.118/picons/logos/rtsh3.png" group-title="ALBANIA",ALB| RTSH 3
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116129
+#EXTINF:-1 tvg-id="RTSHPlus.al" tvg-name="ALB| RTSH PLUS" tvg-logo="http://103.176.90.118/picons/logos/RTSH-PLUS.png" group-title="ALBANIA",ALB| RTSH PLUS
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116134
+#EXTINF:-1 tvg-id="RTSHSport.al" tvg-name="ALB| RTSH SPORT 4K" tvg-logo="http://103.176.90.118/picons/logos/RTSH-SPORT.jpeg" group-title="ALBANIA",ALB| RTSH SPORT 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116136
+#EXTINF:-1 tvg-id="RTSHShqip.al" tvg-name="ALB| RTSH SHQIP" tvg-logo="http://103.176.90.118/picons/logos/rtshshqip.png" group-title="ALBANIA",ALB| RTSH SHQIP
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116135
+#EXTINF:-1 tvg-id="" tvg-name="##### ALB NEWS #####" tvg-logo="http://103.176.90.118/picons/logos/logos/ALBANIA.png" group-title="ALBANIA",##### ALB NEWS #####
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/196719
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EURONEWS ALBANIA" tvg-logo="http://103.176.90.118/picons/logos/euronews.png" group-title="ALBANIA",ALB| EURONEWS ALBANIA
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/852327
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KLAN NEWS" tvg-logo="http://103.176.90.118/picons/logos/klan.png" group-title="ALBANIA",ALB| KLAN NEWS
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116048
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TOP NEWS" tvg-logo="http://103.176.90.118/picons/logos/topnews.png" group-title="ALBANIA",ALB| TOP NEWS
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116179
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KANALI 7" tvg-logo="http://103.176.90.118/picons/logos/KANALI-7.png" group-title="ALBANIA",ALB| KANALI 7
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116101
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="ALB| ORA NEWS 4K" tvg-logo="http://103.176.90.118/picons/logos/ORA-NEWS.jpeg" group-title="ALBANIA",ALB| ORA NEWS 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116326
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="ALB| ORA NEWS" tvg-logo="http://103.176.90.118/picons/logos/ORA-NEWS.jpeg" group-title="ALBANIA",ALB| ORA NEWS
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116116
+#EXTINF:-1 tvg-id="News24.al" tvg-name="ALB| NEWS 24" tvg-logo="http://103.176.90.118/picons/logos/NEWS-24.jpg" group-title="ALBANIA",ALB| NEWS 24
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116114
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FAX NEWS" tvg-logo="http://103.176.90.118/picons/logos/faxnews.png" group-title="ALBANIA",ALB| FAX NEWS
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116207
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ABC NEWS" tvg-logo="http://103.176.90.118/picons/logos/abcnews.png" group-title="ALBANIA",ALB| ABC NEWS
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/853018
+#EXTINF:-1 tvg-id="" tvg-name="ALB| REPORT TV" tvg-logo="http://103.176.90.118/picons/logos/reporttv.png" group-title="ALBANIA",ALB| REPORT TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116119
+#EXTINF:-1 tvg-id="" tvg-name="ALB| A2 CNN" tvg-logo="http://103.176.90.118/picons/logos/a2cnn.png" group-title="ALBANIA",ALB| A2 CNN
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116295
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SYRI TELEVIZION" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SYRI-TELEVIZION.png" group-title="ALBANIA",ALB| SYRI TELEVIZION
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/920560
+#EXTINF:-1 tvg-id="RTSHKuvend.al" tvg-name="ALB| RTSH GJIROKASTRA" tvg-logo="http://103.176.90.118/picons/logos/RTSH-KUVEND.jpg" group-title="ALBANIA",ALB| RTSH GJIROKASTRA
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116132
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SCAN TV HD" tvg-logo="http://103.176.90.118/picons/logos/BELGIUM/scantv.png" group-title="ALBANIA",ALB| SCAN TV HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1082693
+#EXTINF:-1 tvg-id="" tvg-name="##### ALB DOCUMENTARIES #####" tvg-logo="http://103.176.90.118/picons/logos/logos/ALBANIA.png" group-title="ALBANIA",##### ALB DOCUMENTARIES #####
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/196720
+#EXTINF:-1 tvg-id="EXPHistori.al" tvg-name="ALB| EXPLORER HISTORI" tvg-logo="http://103.176.90.118/picons/logos/viasatexplorer.png" group-title="ALBANIA",ALB| EXPLORER HISTORI
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116072
+#EXTINF:-1 tvg-id="EXPNatyra.al" tvg-name="ALB| EXPLORER NATYRA" tvg-logo="http://103.176.90.118/picons/logos/EXPLORER-NATYRA.png" group-title="ALBANIA",ALB| EXPLORER NATYRA
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116073
+#EXTINF:-1 tvg-id="EXPShkence.al" tvg-name="ALB| EXPLORER SHKENCE" tvg-logo="http://103.176.90.118/picons/logos/EXPLORER-SHKENCE.png" group-title="ALBANIA",ALB| EXPLORER SHKENCE
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116074
+#EXTINF:-1 tvg-id="TringPlanet.al" tvg-name="ALB| TRING PLANET" tvg-logo="http://103.176.90.118/picons/logos/TRING-PLANET.png" group-title="ALBANIA",ALB| TRING PLANET
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116188
+#EXTINF:-1 tvg-id="TringWorld.al" tvg-name="ALB| TRING WORLD" tvg-logo="http://103.176.90.118/picons/logos/TRING-WORLD.png" group-title="ALBANIA",ALB| TRING WORLD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116193
+#EXTINF:-1 tvg-id="T-Hist.al" tvg-name="ALB| TRING HISTORY" tvg-logo="http://103.176.90.118/picons/logos/TRING-HISTORY.jpeg" group-title="ALBANIA",ALB| TRING HISTORY
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116184
+#EXTINF:-1 tvg-id="Living.al" tvg-name="ALB| LIVING 4K" tvg-logo="http://103.176.90.118/picons/logos/living.png" group-title="ALBANIA",ALB| LIVING 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116111
+#EXTINF:-1 tvg-id="" tvg-name="ALB| HISTORY CHANNEL" tvg-logo="http://103.176.90.118/picons/logos/historychannel.png" group-title="ALBANIA",ALB| HISTORY CHANNEL
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116306
+#EXTINF:-1 tvg-id="NationalGeographic.al" tvg-name="ALB| NATIONAL GEOGRAPHIC" tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="ALBANIA",ALB| NATIONAL GEOGRAPHIC
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116113
+#EXTINF:-1 tvg-id="" tvg-name="ALB| NATIONAL GEOGRAPHIC WILD" tvg-logo="http://103.176.90.118/picons/logos/nationalgeographicwild.png" group-title="ALBANIA",ALB| NATIONAL GEOGRAPHIC WILD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116325
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY CHANNEL" tvg-logo="http://103.176.90.118/picons/logos/discoverychannel.png" group-title="ALBANIA",ALB| DISCOVERY CHANNEL
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116062
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY SCIENCE" tvg-logo="http://103.176.90.118/picons/logos/discoveryscience.png" group-title="ALBANIA",ALB| DISCOVERY SCIENCE
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116063
+#EXTINF:-1 tvg-id="" tvg-name="ALB| INVESTIGATION DISCOVERY" tvg-logo="http://103.176.90.118/picons/logos/INVESTIGATION-DISCOVERY.png" group-title="ALBANIA",ALB| INVESTIGATION DISCOVERY
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116065
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY TURBO EXTRA" tvg-logo="http://103.176.90.118/picons/logos/discoveryturboxtra.png" group-title="ALBANIA",ALB| DISCOVERY TURBO EXTRA
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116064
+#EXTINF:-1 tvg-id="" tvg-name="##### ALB MOVIES & SERIES #####" tvg-logo="http://103.176.90.118/picons/logos/logos/ALBANIA.png" group-title="ALBANIA",##### ALB MOVIES & SERIES #####
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/196718
+#EXTINF:-1 tvg-id="" tvg-name="ALB| NETFLIX ACTION FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/netflix.png" group-title="24/7 ALBANIA",ALB| NETFLIX ACTION FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539532
+#EXTINF:-1 tvg-id="" tvg-name="ALB| NETFLIX THRILLER FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/netflix.png" group-title="24/7 ALBANIA",ALB| NETFLIX THRILLER FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539536
+#EXTINF:-1 tvg-id="" tvg-name="ALB| NETFLEX ROMANCE FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/netflix.png" group-title="24/7 ALBANIA",ALB| NETFLEX ROMANCE FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539535
+#EXTINF:-1 tvg-id="" tvg-name="ALB| NETFLIX COMEDY FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/netflix.png" group-title="24/7 ALBANIA",ALB| NETFLIX COMEDY FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539533
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ALBANIA PRIME FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PRIME-VIDEO.png" group-title="24/7 ALBANIA",ALB| ALBANIA PRIME FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539534
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ALBANIA DISNY FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/DISNY.png" group-title="24/7 ALBANIA",ALB| ALBANIA DISNY FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539531
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME ACTION 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME ACTION 1 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539537
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME ACTION 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME ACTION 2 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539538
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME ACTION 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME ACTION 3 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539539
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME ACTION 4 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME ACTION 4 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539540
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME THRILLER 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME THRILLER 1 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539560
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME THRILLER 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME THRILLER 2 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539561
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME THRILLER 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME THRILLER 3 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539562
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME COMEDY 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME COMEDY 1 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539541
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME COMEDY 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME COMEDY 2 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539542
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME COMEDY 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME COMEDY 3 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539543
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME SCIENCE FICTION 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME SCIENCE FICTION 1 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539558
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME SCIENCE FICTION 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME SCIENCE FICTION 2 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539559
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME ROMANCE 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME ROMANCE 1 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539556
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME ROMANCE 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME ROMANCE 2 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539557
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME DRAMA 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME DRAMA 1 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539546
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME DRAMA 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME DRAMA 2 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539547
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME DRAMA 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME DRAMA 3 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539548
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME HORROR 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME HORROR 1 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539549
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME HORROR 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME HORROR 3 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539551
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME HORROR 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME HORROR 2 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539550
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME DOCUMENTAIR 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME DOCUMENTAIR 1 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539544
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME DOCUMENTAIR 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME DOCUMENTAIR 2 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539545
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME KIDS 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME KIDS 1 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539552
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME KIDS 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME KIDS 2 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539553
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME KIDS 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME KIDS 3 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539554
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PLAYME KIDS 4 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/PLAYME.png" group-title="24/7 ALBANIA",ALB| PLAYME KIDS 4 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539555
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DIGI MOVIES 1 FHD FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/DIGI-MOVIES.png" group-title="24/7 ALBANIA",ALB| DIGI MOVIES 1 FHD FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539583
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DIGI MOVIES 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/DIGI-MOVIES.png" group-title="24/7 ALBANIA",ALB| DIGI MOVIES 2 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539584
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DIGI MOVIES 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/DIGI-MOVIES.png" group-title="24/7 ALBANIA",ALB| DIGI MOVIES 3 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539585
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DIGI MOVIES 4 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/DIGI-MOVIES.png" group-title="24/7 ALBANIA",ALB| DIGI MOVIES 4 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539586
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DIGI MOVIES 5 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/DIGI-MOVIES.png" group-title="24/7 ALBANIA",ALB| DIGI MOVIES 5 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539587
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DIGI MOVIES 6 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/DIGI-MOVIES.png" group-title="24/7 ALBANIA",ALB| DIGI MOVIES 6 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539588
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DIGI MOVIES 7 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/DIGI-MOVIES.png" group-title="24/7 ALBANIA",ALB| DIGI MOVIES 7 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539589
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DIGI MOVIES 8 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/DIGI-MOVIES.png" group-title="24/7 ALBANIA",ALB| DIGI MOVIES 8 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539590
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 24/7 WARRIOS FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| 24/7 WARRIOS FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539582
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 24/7 VIKINGS FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| 24/7 VIKINGS FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539581
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 24/7 TOP BOY FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| 24/7 TOP BOY FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539580
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 24/7 THE PROTECTOR FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| 24/7 THE PROTECTOR FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539579
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 24/7 TEHRAN FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| 24/7 TEHRAN FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539578
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 24/7 SUBURRA FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| 24/7 SUBURRA FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539577
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 24/7 SONS OF ANARCHY FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| 24/7 SONS OF ANARCHY FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539576
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 24/7 SEE FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| 24/7 SEE FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539575
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 24/7 QUEEN OF THE SOUTH  FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| 24/7 QUEEN OF THE SOUTH  FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539574
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 24/7 OZARK FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| 24/7 OZARK FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539573
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 24/7 NARCOS MEXICO FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| 24/7 NARCOS MEXICO FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539572
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 24/7 MONEY HEIST FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| 24/7 MONEY HEIST FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539571
+#EXTINF:-1 tvg-id="" tvg-name="ALB| LUCIFER FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| LUCIFER FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539570
+#EXTINF:-1 tvg-id="" tvg-name="ALB| HOUSE OF_THE DRAGON FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| HOUSE OF_THE DRAGON FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539569
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 24/7 GODFATHER OF HARLEM FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| 24/7 GODFATHER OF HARLEM FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539568
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 24/7 GANGS OF LONDON FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| 24/7 GANGS OF LONDON FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539567
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 24/7 GAME OF THRONES FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| 24/7 GAME OF THRONES FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539566
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 24/7 DARK FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| 24/7 DARK FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539565
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 24/7 FRONTIER FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| 24/7 FRONTIER FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539564
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 24/7 BARBARIANS FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="24/7 ALBANIA",ALB| 24/7 BARBARIANS FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1539563
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FILM GOLD HD" tvg-logo="http://103.176.90.118/picons/logos/FILM-NJE.jpeg" group-title="ALBANIA",ALB| FILM GOLD HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116086
+#EXTINF:-1 tvg-id="FilmDy.al" tvg-name="ALB| FILM MAX 4K" tvg-logo="http://103.176.90.118/picons/logos/FILM-DY-HD.jpeg" group-title="ALBANIA",ALB| FILM MAX 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116079
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FILM T HD" tvg-logo="http://103.176.90.118/picons/logos/FILM-TV.png" group-title="ALBANIA",ALB| FILM T HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116089
+#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="ALB| FILM AKSION" tvg-logo="http://103.176.90.118/picons/logos/FILM-AKSION.jpeg" group-title="ALBANIA",ALB| FILM AKSION
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116076
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FILM AUTOR" tvg-logo="http://103.176.90.118/picons/logos/FILM-TV.png" group-title="ALBANIA",ALB| FILM AUTOR
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116077
+#EXTINF:-1 tvg-id="FilmDrame.al" tvg-name="ALB| FILM DRAMË" tvg-logo="http://103.176.90.118/picons/logos/FILM-DRAME.png" group-title="ALBANIA",ALB| FILM DRAMË
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116078
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FILM FAMILY HD" tvg-logo="http://103.176.90.118/picons/logos/FILM-FAMILY.png" group-title="ALBANIA",ALB| FILM FAMILY HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116082
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FILM HITS" tvg-logo="http://103.176.90.118/picons/logos/FILM-HITS.png" group-title="ALBANIA",ALB| FILM HITS
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116083
+#EXTINF:-1 tvg-id="FilmKomedi.al" tvg-name="ALB| FILM KOMEDI" tvg-logo="http://103.176.90.118/picons/logos/FILM-KOMEDI.png" group-title="ALBANIA",ALB| FILM KOMEDI
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116084
+#EXTINF:-1 tvg-id="FilmThriller.al" tvg-name="ALB| FILM THRILLER" tvg-logo="http://103.176.90.118/picons/logos/FILM-THRILLER.png" group-title="ALBANIA",ALB| FILM THRILLER
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116090
+#EXTINF:-1 tvg-id="FilmNje.al" tvg-name="ALB| FILM GOLD 4K" tvg-logo="http://103.176.90.118/picons/logos/FILM-NJE.jpeg" group-title="ALBANIA",ALB| FILM GOLD 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116085
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DIGI GOLD" tvg-logo="http://103.176.90.118/picons/logos/DIGI-GOLD.png" group-title="ALBANIA",ALB| DIGI GOLD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/917711
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SKY KOMEDI HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-KOMEDI.png" group-title="ALBANIA",ALB| SKY KOMEDI HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116059
+#EXTINF:-1 tvg-id="TringSuper.al" tvg-name="ALB| TRING SUPER 4K" tvg-logo="http://103.176.90.118/picons/logos/TRING-SUPER.jpeg" group-title="ALBANIA",ALB| TRING SUPER 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116191
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING ACTION" tvg-logo="http://103.176.90.118/picons/logos/TRING-ACTION.jpeg" group-title="ALBANIA",ALB| TRING ACTION
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116181
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING COMEDY" tvg-logo="http://103.176.90.118/picons/logos/TRING-COMEDY.jpeg" group-title="ALBANIA",ALB| TRING COMEDY
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116182
+#EXTINF:-1 tvg-id="TringFantazi.al" tvg-name="ALB| TRING FANTASY" tvg-logo="http://103.176.90.118/picons/logos/TRING-FANTASY.jpeg" group-title="ALBANIA",ALB| TRING FANTASY
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116183
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING FAMILY HD" tvg-logo="http://103.176.90.118/picons/logos/TRING-FAMILY.png" group-title="ALBANIA",ALB| TRING FAMILY HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/860385
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING CLASSIC HD" tvg-logo="http://103.176.90.118/picons/logos/TRING-CLASSIC.jpeg" group-title="ALBANIA",ALB| TRING CLASSIC HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/860384
+#EXTINF:-1 tvg-id="TringShqip.al" tvg-name="ALB| TRING SHQIP" tvg-logo="http://103.176.90.118/picons/logos/TRING-SHQIP.jpeg" group-title="ALBANIA",ALB| TRING SHQIP
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116189
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING SMILE" tvg-logo="http://103.176.90.118/picons/logos/TRING-SMILE.jpg" group-title="ALBANIA",ALB| TRING SMILE
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116190
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING NOVELAS HD" tvg-logo="http://103.176.90.118/picons/logos/tring.png" group-title="ALBANIA",ALB| TRING NOVELAS HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/917710
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING TURKISH STORIES 4K" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TRING-TURKISH-STORIES.png" group-title="ALBANIA",ALB| TRING TURKISH STORIES 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1463914
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING SERIES HD" tvg-logo="http://103.176.90.118/picons/logos/TRING-JOLLY-HD.png" group-title="ALBANIA",ALB| TRING SERIES HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116185
+#EXTINF:-1 tvg-id="TringLife.al" tvg-name="ALB| TRING LIFE" tvg-logo="http://103.176.90.118/picons/logos/TRING-LIFE.jpeg" group-title="ALBANIA",ALB| TRING LIFE
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116187
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING 3+" tvg-logo="http://103.176.90.118/picons/logos/TRING-3-HD.png" group-title="ALBANIA",ALB| TRING 3+
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116180
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KANAL D DRAMA FHD" tvg-logo="http://103.176.90.118/picons/logos/KANAL-D-DRAMA.jpeg" group-title="ALBANIA",ALB| KANAL D DRAMA FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1271767
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KANAL D DRAMA" tvg-logo="http://103.176.90.118/picons/logos/KANAL-D-DRAMA.jpeg" group-title="ALBANIA",ALB| KANAL D DRAMA
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/164354
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DIZI TDC 4K" tvg-logo="http://103.176.90.118/picons/logos/DIZI-TV.jpeg" group-title="ALBANIA",ALB| DIZI TDC 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/469117
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DIZI TDC" tvg-logo="http://103.176.90.118/picons/logos/DIZI-TV.jpeg" group-title="ALBANIA",ALB| DIZI TDC
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/469118
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EURO FILM" tvg-logo="http://103.176.90.118/picons/logos/EURO-CHANNEL.png" group-title="ALBANIA",ALB| EURO FILM
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116067
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DIGI GOLD 1" tvg-logo="http://103.176.90.118/picons/logos/DIGI-GOLD-1.png" group-title="ALBANIA",ALB| DIGI GOLD 1
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/917712
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DIGI GOLD 2" tvg-logo="http://103.176.90.118/picons/logos/DIGI-GOLD-2.png" group-title="ALBANIA",ALB| DIGI GOLD 2
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/917713
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DIGI GOLD 3" tvg-logo="http://103.176.90.118/picons/logos/DIGI-GOLD-3.png" group-title="ALBANIA",ALB| DIGI GOLD 3
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/917714
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DIGI GOLD 4" tvg-logo="http://103.176.90.118/picons/logos/DIGI-GOLD-4.png" group-title="ALBANIA",ALB| DIGI GOLD 4
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/917715
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY+ 1 HD" tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="ALBANIA",ALB| DISCOVERY+ 1 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/941560
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY+ 2 HD" tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="ALBANIA",ALB| DISCOVERY+ 2 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/941559
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY+ 3 HD" tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="ALBANIA",ALB| DISCOVERY+ 3 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/941558
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY+ 4 HD" tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="ALBANIA",ALB| DISCOVERY+ 4 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/941557
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY+ 5 HD" tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="ALBANIA",ALB| DISCOVERY+ 5 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/941556
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY+ 6 HD" tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="ALBANIA",ALB| DISCOVERY+ 6 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/941555
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY+ 7 HD" tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="ALBANIA",ALB| DISCOVERY+ 7 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/941554
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY+ 8 HD" tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="ALBANIA",ALB| DISCOVERY+ 8 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/941553
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY+ 9 HD" tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="ALBANIA",ALB| DISCOVERY+ 9 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/941552
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY+ 10 HD" tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="ALBANIA",ALB| DISCOVERY+ 10 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/941551
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY+ MAX 1 HD" tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="ALBANIA",ALB| DISCOVERY+ MAX 1 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/941550
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY+ MAX 2 HD" tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="ALBANIA",ALB| DISCOVERY+ MAX 2 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/941549
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY+ MAX 3 HD" tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="ALBANIA",ALB| DISCOVERY+ MAX 3 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/941548
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY+ MAX 4 HD" tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="ALBANIA",ALB| DISCOVERY+ MAX 4 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/941547
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY+ MAX 5 HD" tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="ALBANIA",ALB| DISCOVERY+ MAX 5 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/941546
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY+ MAX 6 HD" tvg-logo="https://www.barriecreative.com/wp-content/uploads/2022/04/discovery-plus-logo.png" group-title="ALBANIA",ALB| DISCOVERY+ MAX 6 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/941545
+#EXTINF:-1 tvg-id="" tvg-name="##### ALB REGIONAL #####" tvg-logo="http://103.176.90.118/picons/logos/logos/ALBANIA.png" group-title="ALBANIA",##### ALB REGIONAL #####
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1122024
+#EXTINF:-1 tvg-id="" tvg-name="ALB| O SA MIRE" tvg-logo="http://103.176.90.118/picons/logos/logos/O-SA-MIRE.png" group-title="ALBANIA",ALB| O SA MIRE
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1501620
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TEMA TV" tvg-logo="http://103.176.90.118/picons/logos/TEMA-TV.jpeg" group-title="ALBANIA",ALB| TEMA TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116272
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV ZJARR" tvg-logo="http://103.176.90.118/picons/logos/TV-ZJARR.jpeg" group-title="ALBANIA",ALB| TV ZJARR
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116225
+#EXTINF:-1 tvg-id="" tvg-name="ALB| MCN TV" tvg-logo="http://103.176.90.118/picons/logos/MCN-TV.jpeg" group-title="ALBANIA",ALB| MCN TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/897321
+#EXTINF:-1 tvg-id="" tvg-name="ALB| MCN TV 24" tvg-logo="http://103.176.90.118/picons/logos/MCN-TV.jpeg" group-title="ALBANIA",ALB| MCN TV 24
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1444821
+#EXTINF:-1 tvg-id="" tvg-name="ALB| STAR PLUS SHKODËR HD" tvg-logo="http://103.176.90.118/picons/logos/starplushd.png" group-title="ALBANIA",ALB| STAR PLUS SHKODËR HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116270
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV KOPLIKU HD" tvg-logo="http://103.176.90.118/picons/logos/TV-KOPLIKU.jpeg" group-title="ALBANIA",ALB| TV KOPLIKU HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116231
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DRITA TV" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DRITA.png" group-title="ALBANIA",ALB| DRITA TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1035719
+#EXTINF:-1 tvg-id="" tvg-name="ALB| APOLLON TV" tvg-logo="http://103.176.90.118/picons/logos/APOLLON-TV.jpeg" group-title="ALBANIA",ALB| APOLLON TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1082716
+#EXTINF:-1 tvg-id="" tvg-name="##### ALB MUSIC #####" tvg-logo="http://103.176.90.118/picons/logos/logos/ALBANIA.png" group-title="ALBANIA",##### ALB MUSIC #####
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/196717
+#EXTINF:-1 tvg-id="" tvg-name="ALB| BLUE SKY TV" tvg-logo="http://103.176.90.118/picons/logos/BLUE-SKY.jpeg" group-title="ALBANIA",ALB| BLUE SKY TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/206183
+#EXTINF:-1 tvg-id="RTSHMuzike.al" tvg-name="ALB| RTSH MUZIKE" tvg-logo="http://103.176.90.118/picons/logos/rtshmuzike.png" group-title="ALBANIA",ALB| RTSH MUZIKE
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116133
+#EXTINF:-1 tvg-id="MyMusic.al" tvg-name="ALB| MY MUSIC HD" tvg-logo="http://103.176.90.118/picons/logos/MY-MUSIC.png" group-title="ALBANIA",ALB| MY MUSIC HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116264
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FOLK PLUS" tvg-logo="http://103.176.90.118/picons/logos/folkplus.png" group-title="ALBANIA",ALB| FOLK PLUS
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116357
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSONIC TV" tvg-logo="http://103.176.90.118/picons/logos/supersonictv.png" group-title="ALBANIA",ALB| SUPERSONIC TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116360
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ELRODI TV" tvg-logo="http://103.176.90.118/picons/logos/ELRODI-TV.jpg" group-title="ALBANIA",ALB| ELRODI TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/294535
+#EXTINF:-1 tvg-id="InTV.al" tvg-name="ALB| IN TV" tvg-logo="http://103.176.90.118/picons/logos/intv.png" group-title="ALBANIA",ALB| IN TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116096
+#EXTINF:-1 tvg-id="" tvg-name="ALB| A MOL TV" tvg-logo="http://103.176.90.118/picons/logos/A-MOL-TV.jpeg" group-title="ALBANIA",ALB| A MOL TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116224
+#EXTINF:-1 tvg-id="ClickTV.al" tvg-name="ALB| CLICK HD" tvg-logo="http://103.176.90.118/picons/logos/click.png" group-title="ALBANIA",ALB| CLICK HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116236
+#EXTINF:-1 tvg-id="" tvg-name="ALB| BBF MUSIC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BBF-MUSIK.jpg" group-title="ALBANIA",ALB| BBF MUSIC
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1035714
+#EXTINF:-1 tvg-id="" tvg-name="##### ALB CHILDREN #####" tvg-logo="http://103.176.90.118/picons/logos/logos/ALBANIA.png" group-title="ALBANIA",##### ALB CHILDREN #####
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/196722
+#EXTINF:-1 tvg-id="RTSHFemije.al" tvg-name="ALB| RTSH FEMIJE" tvg-logo="http://103.176.90.118/picons/logos/RTSH-FEMIJE.jpeg" group-title="ALBANIA",ALB| RTSH FEMIJE
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116130
+#EXTINF:-1 tvg-id="BangBang.al" tvg-name="ALB| BANG BANG" tvg-logo="http://103.176.90.118/picons/logos/bangbang.png" group-title="ALBANIA",ALB| BANG BANG
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116057
+#EXTINF:-1 tvg-id="CufoTV.al" tvg-name="ALB| CUFO" tvg-logo="http://103.176.90.118/picons/logos/cufo.png" group-title="ALBANIA",ALB| CUFO
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116060
+#EXTINF:-1 tvg-id="" tvg-name="ALB| JUNIOR" tvg-logo="http://103.176.90.118/picons/logos/junior.png" group-title="ALBANIA",ALB| JUNIOR
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116100
+#EXTINF:-1 tvg-id="TipTv.al" tvg-name="ALB| TIP TV" tvg-logo="http://103.176.90.118/picons/logos/tiptv.png" group-title="ALBANIA",ALB| TIP TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116175
+#EXTINF:-1 tvg-id="TringKids.al" tvg-name="ALB| TRING KIDS" tvg-logo="http://103.176.90.118/picons/logos/TRING-KIDS.png" group-title="ALBANIA",ALB| TRING KIDS
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116186
+#EXTINF:-1 tvg-id="TringTring.al" tvg-name="ALB| TRING TRING" tvg-logo="http://103.176.90.118/picons/logos/tringtring.png" group-title="ALBANIA",ALB| TRING TRING
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116192
+#EXTINF:-1 tvg-id="Sofia.al" tvg-name="ALB| SOFIA" tvg-logo="http://103.176.90.118/picons/logos/SOFIA-.png" group-title="ALBANIA",ALB| SOFIA
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116173
+#EXTINF:-1 tvg-id="" tvg-name="ALB| BOOMERANG" tvg-logo="http://103.176.90.118/picons/logos/boomerang.png" group-title="ALBANIA",ALB| BOOMERANG
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116303
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TOM & JERRY" tvg-logo="http://103.176.90.118/picons/logos/tomenjerry.jpg" group-title="ALBANIA",ALB| TOM & JERRY
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116162
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DUCK TV" tvg-logo="http://103.176.90.118/picons/logos/ducktv.png" group-title="ALBANIA",ALB| DUCK TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116075
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PJ MASKS" tvg-logo="http://103.176.90.118/picons/logos/PJ-MASKS.jpeg" group-title="ALBANIA",ALB| PJ MASKS
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116118
+#EXTINF:-1 tvg-id="" tvg-name="ALB| BABY TV" tvg-logo="http://103.176.90.118/picons/logos/babytv.png" group-title="ALBANIA",ALB| BABY TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116056
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ART PRINCE KIDS" tvg-logo="http://103.176.90.118/picons/logos/ART-TV.png" group-title="ALBANIA",ALB| ART PRINCE KIDS
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116301
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DRAGON BALL Z HD" tvg-logo="http://103.176.90.118/picons/logos/DRAGON-BALL-Z.png" group-title="ALBANIA",ALB| DRAGON BALL Z HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116066
+#EXTINF:-1 tvg-id="" tvg-name="##### ALB SPORT #####" tvg-logo="http://103.176.90.118/picons/logos/logos/ALBANIA.png" group-title="ALBANIA SPORTS",##### ALB SPORT #####
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/196721
+#EXTINF:-1 tvg-id="SuperSportKosova1.al" tvg-name="ALB| SUPER SPORT 1 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-1.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT 1 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116330
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT 1 4K HEVC" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-1.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT 1 4K HEVC
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/315174
+#EXTINF:-1 tvg-id="SuperSportKosova1.al" tvg-name="ALB| SUPER SPORT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-1.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT 1 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116248
+#EXTINF:-1 tvg-id="SuperSportKosova2.al" tvg-name="ALB| SUPER SPORT 2 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-2.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT 2 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116331
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="ALB| SUPER SPORT 2 4K HEVC" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-KOSOVA-2.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT 2 4K HEVC
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/315173
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="ALB| SUPER SPORT 2 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-2.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT 2 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116249
+#EXTINF:-1 tvg-id="SuperSportKosova3.al" tvg-name="ALB| SUPER SPORT 3 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-3.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT 3 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116332
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="ALB| SUPER SPORT 3 4K HEVC" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-3.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT 3 4K HEVC
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/315172
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="ALB| SUPER SPORT 3 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-3.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT 3 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116250
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT 4 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-4.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT 4 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116333
+#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="ALB| SUPER SPORT4 4K HEVC" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-4.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT4 4K HEVC
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/315171
+#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="ALB| SUPER SPORT 4 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-4.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT 4 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116251
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT 5 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-5.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT 5 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116334
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT 5 4K HEVC" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-5.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT 5 4K HEVC
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/315170
+#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="ALB| SUPER SPORT 5 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-5.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT 5 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116252
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT6 4K HEVC" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-6.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT6 4K HEVC
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/315169
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT 6 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-6.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT 6 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116335
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT 6 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-6.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT 6 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116253
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT7 4K HEVC" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-KOSOVA-1.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT7 4K HEVC
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/315168
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT 7 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-KOSOVA-1.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT 7 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116336
+#EXTINF:-1 tvg-id="TringSportNews.al" tvg-name="ALB| TRING SPORT NEWS" tvg-logo="http://103.176.90.118/picons/logos/logos/TRING-SPORT-NEWS.png" group-title="ALBANIA SPORTS",ALB| TRING SPORT NEWS
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116218
+#EXTINF:-1 tvg-id="TringSportNews.al" tvg-name="ALB| TRING SPORT NEWS HD" tvg-logo="http://103.176.90.118/picons/logos/logos/TRING-SPORT-NEWS.png" group-title="ALBANIA SPORTS",ALB| TRING SPORT NEWS HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116219
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="ALB| TRING SPORT 1 4K" tvg-logo="http://103.176.90.118/picons/logos/TRING-SPORT-1-HD.png" group-title="ALBANIA SPORTS",ALB| TRING SPORT 1 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116210
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="ALB| TRING SPORT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/TRING-SPORT-1-HD.png" group-title="ALBANIA SPORTS",ALB| TRING SPORT 1 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116211
+#EXTINF:-1 tvg-id="TringSport2.al" tvg-name="ALB| TRING SPORT 2 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/TRING-SPORT-2-HD.png" group-title="ALBANIA SPORTS",ALB| TRING SPORT 2 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116212
+#EXTINF:-1 tvg-id="TringSport2.al" tvg-name="ALB| TRING SPORT 2 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/TRING-SPORT-2-HD.png" group-title="ALBANIA SPORTS",ALB| TRING SPORT 2 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116213
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="ALB| TRING SPORT 3 4K" tvg-logo="http://103.176.90.118/picons/logos/TRING-SPORT-3-HD.png" group-title="ALBANIA SPORTS",ALB| TRING SPORT 3 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116214
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="ALB| TRING SPORT 3 HD" tvg-logo="http://103.176.90.118/picons/logos/TRING-SPORT-3-HD.png" group-title="ALBANIA SPORTS",ALB| TRING SPORT 3 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116215
+#EXTINF:-1 tvg-id="TringSport4.al" tvg-name="ALB| TRING SPORT 4 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/TRING-SPORT-4.png" group-title="ALBANIA SPORTS",ALB| TRING SPORT 4 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116216
+#EXTINF:-1 tvg-id="TringSport4.al" tvg-name="ALB| TRING SPORT 4 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/TRING-SPORT-4.png" group-title="ALBANIA SPORTS",ALB| TRING SPORT 4 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116217
+#EXTINF:-1 tvg-id="" tvg-name="##### KO SPORT #####" tvg-logo="http://103.176.90.118/picons/logos/logos/KOSOVO.png" group-title="ALBANIA SPORTS",##### KO SPORT #####
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1122023
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT KOSOVA 1" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-KOSOVA-1.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT KOSOVA 1
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/902985
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT KOSOVA 2" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-KOSOVA-2.png" group-title="ALBANIA SPORTS",ALB| SUPER SPORT KOSOVA 2
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/902988
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/K-SPORT-1.png" group-title="ALBANIA SPORTS",ALB| K SPORT 1 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116257
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 2 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/K-SPORT-2.png" group-title="ALBANIA SPORTS",ALB| K SPORT 2 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116258
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 3 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/K-SPORT-3.png" group-title="ALBANIA SPORTS",ALB| K SPORT 3 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116259
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 4 HD" tvg-logo="http://103.176.90.118/picons/logos/K-SPORT-4.png" group-title="ALBANIA SPORTS",ALB| K SPORT 4 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116260
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 5 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/K-SPORT-5.png" group-title="ALBANIA SPORTS",ALB| K SPORT 5 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116247
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ART SPORT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/ART-SPORT.png" group-title="ALBANIA SPORTS",ALB| ART SPORT 1 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116245
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ART SPORT 2 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/ART-SPORT.png" group-title="ALBANIA SPORTS",ALB| ART SPORT 2 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116244
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ART SPORT 3 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/ART-SPORT.png" group-title="ALBANIA SPORTS",ALB| ART SPORT 3 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116243
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ART SPORT 4 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ART-SPORT4.png" group-title="ALBANIA SPORTS",ALB| ART SPORT 4 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1033371
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ART SPORT 5 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ART-SPORT5.png" group-title="ALBANIA SPORTS",ALB| ART SPORT 5 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1033372
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ART SPORT 6 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ART-SPORT6.png" group-title="ALBANIA SPORTS",ALB| ART SPORT 6 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1033373
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FIGHT BOX HD" tvg-logo="http://103.176.90.118/picons/logos/logos/fightbox.png" group-title="ALBANIA SPORTS",ALB| FIGHT BOX HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116238
+#EXTINF:-1 tvg-id="" tvg-name="##### KO GENERAL #####" tvg-logo="http://103.176.90.118/picons/logos/logos/KOSOVO.png" group-title="KOSOVO",##### KO GENERAL #####
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1122035
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTK 1 4K" tvg-logo="http://103.176.90.118/picons/logos/rtk1.png" group-title="KOSOVO",ALB| RTK 1 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116364
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTK 1 HD" tvg-logo="http://103.176.90.118/picons/logos/rtk1.png" group-title="KOSOVO",ALB| RTK 1 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116121
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTK 1" tvg-logo="http://103.176.90.118/picons/logos/rtk1.png" group-title="KOSOVO",ALB| RTK 1
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116120
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTK 2 HD" tvg-logo="http://103.176.90.118/picons/logos/rtk2.png" group-title="KOSOVO",ALB| RTK 2 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116365
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTK 2" tvg-logo="http://103.176.90.118/picons/logos/rtk2.png" group-title="KOSOVO",ALB| RTK 2
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116122
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTK 3 4K" tvg-logo="http://103.176.90.118/picons/logos/rtk3.png" group-title="KOSOVO",ALB| RTK 3 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116366
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTK 3 HD" tvg-logo="http://103.176.90.118/picons/logos/rtk3.png" group-title="ALBANIA",ALB| RTK 3 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116367
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTK 3" tvg-logo="http://103.176.90.118/picons/logos/rtk3.png" group-title="KOSOVO",ALB| RTK 3
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116123
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTK 4 HD" tvg-logo="http://103.176.90.118/picons/logos/RTK-4.png" group-title="KOSOVO",ALB| RTK 4 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116368
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTK 4" tvg-logo="http://103.176.90.118/picons/logos/rtk4.png" group-title="KOSOVO",ALB| RTK 4
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116124
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV 21 4K" tvg-logo="http://103.176.90.118/picons/logos/rtv21.png" group-title="KOSOVO",ALB| RTV 21 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116138
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV 21 HD" tvg-logo="http://103.176.90.118/picons/logos/RTV21-HD.png" group-title="KOSOVO",ALB| RTV 21 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116137
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TËVË 1" tvg-logo="https://www.llapi.info/wp-content/uploads/2022/02/tv-1.jpg" group-title="KOSOVO",ALB| TËVË 1
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/906875
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ATV HD" tvg-logo="http://103.176.90.118/picons/logos/ATV-HD.png" group-title="KOSOVO",ALB| ATV HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/467632
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ATV HD" tvg-logo="http://103.176.90.118/picons/logos/atv.png" group-title="KOSOVO",ALB| ATV HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/472945
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KTV KOHAVISION 4K" tvg-logo="http://103.176.90.118/picons/logos/KTV-KOHAVISION-HD.png" group-title="KOSOVO",ALB| KTV KOHAVISION 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116110
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KTV KOHAVISION HD" tvg-logo="http://103.176.90.118/picons/logos/KTV-KOHAVISION-HD.png" group-title="KOSOVO",ALB| KTV KOHAVISION HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116109
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV KOHA HD" tvg-logo="http://103.176.90.118/picons/logos/TV-KOHA-HD.jpeg" group-title="KOSOVO",ALB| TV KOHA HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116196
+#EXTINF:-1 tvg-id="KlanKosova.al" tvg-name="ALB| KLAN KOSOVA 4K" tvg-logo="http://103.176.90.118/picons/logos/klankosova.png" group-title="KOSOVO",ALB| KLAN KOSOVA 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116352
+#EXTINF:-1 tvg-id="KlanKosova.al" tvg-name="ALB| KLAN KOSOVA HD" tvg-logo="http://103.176.90.118/picons/logos/klankosova.png" group-title="KOSOVO",ALB| KLAN KOSOVA HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116105
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV DUKAGJINI FHD" tvg-logo="http://103.176.90.118/picons/logos/dukagjini.png" group-title="KOSOVO",ALB| TV DUKAGJINI FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116305
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV DUKAGJINI" tvg-logo="http://103.176.90.118/picons/logos/tvdukagjini.png" group-title="KOSOVO",ALB| RTV DUKAGJINI
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/442786
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV21 MIX HD" tvg-logo="http://103.176.90.118/picons/logos/RTV21-MIX-HD.jpeg" group-title="KOSOVO",ALB| RTV21 MIX HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116141
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV21 PLUS HD" tvg-logo="http://103.176.90.118/picons/logos/RTV21-PLUS-HD.png" group-title="KOSOVO",ALB| RTV21 PLUS HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116143
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV21 JUNIOR" tvg-logo="http://103.176.90.118/picons/logos/RTV21-JUNIOR.jpeg" group-title="KOSOVO",ALB| RTV21 JUNIOR
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116139
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FIRST TV" tvg-logo="http://103.176.90.118/picons/logos/FIRST-TV.png" group-title="KOSOVO",ALB| FIRST TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116095
+#EXTINF:-1 tvg-id="" tvg-name="ALB| T7 4K" tvg-logo="http://103.176.90.118/picons/logos/t7.png" group-title="KOSOVO",ALB| T7 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116337
+#EXTINF:-1 tvg-id="" tvg-name="ALB| T7" tvg-logo="http://103.176.90.118/picons/logos/t7.png" group-title="KOSOVO",ALB| T7
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116174
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KANAL 10 HD" tvg-logo="http://103.176.90.118/picons/logos/KANAL-10-ALB.png" group-title="KOSOVO",ALB| KANAL 10 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1030842
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KANAL 10" tvg-logo="http://103.176.90.118/picons/logos/KANAL-10-ALB.png" group-title="ALBANIA",ALB| KANAL 10
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116266
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SYRI VISION" tvg-logo="http://103.176.90.118/picons/logos/syrivision.png" group-title="KOSOVO",ALB| SYRI VISION
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116234
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARTI TV" tvg-logo="http://103.176.90.118/picons/logos/ARTI-TV.png" group-title="KOSOVO",ALB| ARTI TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/844820
+#EXTINF:-1 tvg-id="" tvg-name="##### KO NEWS #####" tvg-logo="http://103.176.90.118/picons/logos/logos/KOSOVO.png" group-title="KOSOVO",##### KO NEWS #####
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1122030
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARTA NEWS" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ARTA-NEWS.png" group-title="KOSOVO",ALB| ARTA NEWS
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116232
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARTA NEWS 4K" tvg-logo="http://103.176.90.118/picons/logos/artatv.png" group-title="KOSOVO",ALB| ARTA NEWS 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116302
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV21 NEWSBIZ 4K" tvg-logo="http://103.176.90.118/picons/logos/RTV21-HD.png" group-title="KOSOVO",ALB| RTV21 NEWSBIZ 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116142
+#EXTINF:-1 tvg-id="" tvg-name="##### KO DOCUMENTARIES #####" tvg-logo="http://103.176.90.118/picons/logos/logos/KOSOVO.png" group-title="KOSOVO",##### KO DOCUMENTARIES #####
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1122029
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ART DOKU 1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ART-DOKU1.jpg" group-title="KOSOVO",ALB| ART DOKU 1
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/992098
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ART DOKU 2" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ART-DOKU2.jpg" group-title="KOSOVO",ALB| ART DOKU 2
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/992097
+#EXTINF:-1 tvg-id="" tvg-name="ALB| X HISTORI HD" tvg-logo="http://103.176.90.118/picons/logos/X-TV.png" group-title="KOSOVO",ALB| X HISTORI HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116280
+#EXTINF:-1 tvg-id="" tvg-name="ALB| X NATYRA HD" tvg-logo="http://103.176.90.118/picons/logos/X-TV.png" group-title="KOSOVO",ALB| X NATYRA HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116283
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SKY PLANET" tvg-logo="http://103.176.90.118/picons/logos/sky.png" group-title="KOSOVO",ALB| SKY PLANET
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116170
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SKY SHKENCE" tvg-logo="http://103.176.90.118/picons/logos/SKY-SHKENCE.jpg" group-title="KOSOVO",ALB| SKY SHKENCE
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116171
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SKY HISTORY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-HISTORY.png" group-title="KOSOVO",ALB| SKY HISTORY
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116172
+#EXTINF:-1 tvg-id="" tvg-name="##### KO REGIONAL #####" tvg-logo="http://103.176.90.118/picons/logos/logos/KOSOVO.png" group-title="KOSOVO",##### KO REGIONAL #####
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1122028
+#EXTINF:-1 tvg-id="" tvg-name="ALB| BESA TV" tvg-logo="http://103.176.90.118/picons/logos/rtvbesa.png" group-title="ALBANIA",ALB| BESA TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116235
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV LIRIA" tvg-logo="http://103.176.90.118/picons/logos/TV-LIRIA.jpeg" group-title="KOSOVO",ALB| TV LIRIA
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116197
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV MITROVICA" tvg-logo="http://103.176.90.118/picons/logos/TV-MITROVICA.jpg" group-title="KOSOVO",ALB| TV MITROVICA
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116222
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ISTOGU CHANNEL FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ISTOGU.png" group-title="KOSOVO",ALB| ISTOGU CHANNEL FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1081242
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV PRIZRENI" tvg-logo="" group-title="KOSOVO",ALB| TV PRIZRENI
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/739509
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DIELLI TV" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DIELLI.jpg" group-title="KOSOVO",ALB| DIELLI TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1035718
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DIASPORA TV" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DIASPORA.png" group-title="KOSOVO",ALB| DIASPORA TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1035716
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV FONTANA HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/RTV-FONTANA.png" group-title="KOSOVO",ALB| RTV FONTANA HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1081149
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPIN TV" tvg-logo="http://103.176.90.118/picons/logos/BELGIUM/spin-tv.png" group-title="KOSOVO",ALB| SPIN TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1083964
+#EXTINF:-1 tvg-id="" tvg-name="##### KO MACEDONIA & MONTENEGRO #####" tvg-logo="http://103.176.90.118/picons/logos/logos/KOSOVO.png" group-title="KOSOVO",##### KO MACEDONIA & MONTENEGRO #####
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1122027
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV21 MAQEDONIA" tvg-logo="http://103.176.90.118/picons/logos/RTV21-MAQEDONIA.png" group-title="KOSOVO",ALB| RTV21 MAQEDONIA
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116140
+#EXTINF:-1 tvg-id="AlsatM.al" tvg-name="ALB| ALSAT M FHD" tvg-logo="http://103.176.90.118/picons/logos/ALSAT-M.png" group-title="KOSOVO",ALB| ALSAT M FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116051
+#EXTINF:-1 tvg-id="AlsatM.al" tvg-name="ALB| ALSAT M" tvg-logo="http://103.176.90.118/picons/logos/ALSAT-M.png" group-title="KOSOVO",ALB| ALSAT M
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116050
+#EXTINF:-1 tvg-id="" tvg-name="ALB| MRT 2" tvg-logo="http://103.176.90.118/picons/logos/MRT-2.jpeg" group-title="KOSOVO",ALB| MRT 2
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116263
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KLAN MACEDONIA" tvg-logo="http://103.176.90.118/picons/logos/klanmacedonia.png" group-title="KOSOVO",ALB| KLAN MACEDONIA
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116324
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV2 GOSTIVAR" tvg-logo="http://103.176.90.118/picons/logos/TV2-GOSTIVAR.png" group-title="KOSOVO",ALB| TV2 GOSTIVAR
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116206
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV GLOBI HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVGLOBI.png" group-title="KOSOVO",ALB| TV GLOBI HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1081859
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV TETOVA HD" tvg-logo="http://103.176.90.118/picons/logos/TV-TETOVA-HD.jpg" group-title="KOSOVO",ALB| TV TETOVA HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116256
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV USKANA" tvg-logo="http://103.176.90.118/picons/logos/TV-USKANA.png" group-title="KOSOVO",ALB| TV USKANA
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/238028
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SHENJA TV" tvg-logo="http://103.176.90.118/picons/logos/SHENJA-TV.jpg" group-title="KOSOVO",ALB| SHENJA TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116145
+#EXTINF:-1 tvg-id="" tvg-name="ALB| POLLOGU TV" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ON-TV.png" group-title="KOSOVO",ALB| POLLOGU TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1035715
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV ILIRIDA" tvg-logo="http://103.176.90.118/picons/logos/RTV-ILIRIDA.png" group-title="KOSOVO",ALB| RTV ILIRIDA
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/811269
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV ILIRIDA" tvg-logo="http://103.176.90.118/picons/logos/rtv.png" group-title="KOSOVO",ALB| RTV ILIRIDA
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/622181
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV ILIRIDA : MUSIC" tvg-logo="http://103.176.90.118/picons/logos/RTV-ILIRIDA.png" group-title="KOSOVO",ALB| RTV ILIRIDA : MUSIC
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/828920
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV ILIRIDA : HUMOUR" tvg-logo="http://103.176.90.118/picons/logos/RTV-ILIRIDA.png" group-title="KOSOVO",ALB| RTV ILIRIDA : HUMOUR
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/828919
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV ILIRIDA : FEMIJ" tvg-logo="http://103.176.90.118/picons/logos/RTV-ILIRIDA.png" group-title="KOSOVO",ALB| RTV ILIRIDA : FEMIJ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/828918
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV ILIRIDA : FILM" tvg-logo="http://103.176.90.118/picons/logos/RTV-ILIRIDA.png" group-title="KOSOVO",ALB| RTV ILIRIDA : FILM
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/828901
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV ILIRIDA : DOKUMENTAR" tvg-logo="http://103.176.90.118/picons/logos/RTV-ILIRIDA.png" group-title="KOSOVO",ALB| RTV ILIRIDA : DOKUMENTAR
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/828843
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV ILIRIDA : RTV ILIRIDA" tvg-logo="http://103.176.90.118/picons/logos/RTV-ILIRIDA.png" group-title="KOSOVO",ALB| RTV ILIRIDA : RTV ILIRIDA
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/828827
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ULQINI TV HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ULQINI.jpg" group-title="KOSOVO",ALB| ULQINI TV HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1035713
+#EXTINF:-1 tvg-id="" tvg-name="##### KO MUSIC #####" tvg-logo="http://103.176.90.118/picons/logos/logos/KOSOVO.png" group-title="KOSOVO",##### KO MUSIC #####
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1122026
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV ERA" tvg-logo="http://103.176.90.118/picons/logos/TV-ERA.jpeg" group-title="KOSOVO",ALB| TV ERA
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116194
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DASMA TV" tvg-logo="http://103.176.90.118/picons/logos/DASMA-TV.png" group-title="KOSOVO",ALB| DASMA TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/746078
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TOP ESTRADA MUSIC HD" tvg-logo="http://103.176.90.118/picons/logos/TOPESTRADA-TV.jpeg" group-title="KOSOVO",ALB| TOP ESTRADA MUSIC HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116178
+#EXTINF:-1 tvg-id="" tvg-name="ALB| VIVA MUSIC" tvg-logo="http://103.176.90.118/picons/logos/TV-PLISI.png" group-title="KOSOVO",ALB| VIVA MUSIC
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116201
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV TEUTA" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TEUTA.png" group-title="KOSOVO",ALB| TV TEUTA
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1040570
+#EXTINF:-1 tvg-id="" tvg-name="ALB| MTV KOSOVA" tvg-logo="http://103.176.90.118/picons/logos/MTV-KOSOVA.jpeg" group-title="KOSOVO",ALB| MTV KOSOVA
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116341
+#EXTINF:-1 tvg-id="" tvg-name="ALB| MUSIC: TV SHARRI HD" tvg-logo="http://103.176.90.118/picons/logos/TV-SHARRI-HD.jpeg" group-title="KOSOVO",ALB| MUSIC: TV SHARRI HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116362
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PITO MUSIC HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PITO-MUSIC.png" group-title="KOSOVO",ALB| PITO MUSIC HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/160681
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SYRI BLU MUSIC HD" tvg-logo="http://103.176.90.118/picons/logos/SYRI-BLU-MUSIC-HD.jpeg" group-title="KOSOVO",ALB| SYRI BLU MUSIC HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116271
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV21 POPULLORE HD" tvg-logo="http://103.176.90.118/picons/logos/RTV21-HD.png" group-title="KOSOVO",ALB| RTV21 POPULLORE HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116144
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SWISS TV HD" tvg-logo="http://103.176.90.118/picons/logos/SWISS-TV.jpeg" group-title="KOSOVO",ALB| SWISS TV HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116049
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ZICO TV" tvg-logo="http://103.176.90.118/picons/logos/zicotv.png" group-title="ALBANIA",ALB| ZICO TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116228
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TURBO CHANNEL" tvg-logo="http://103.176.90.118/picons/logos/TURBO-CHANNEL.jpeg" group-title="KOSOVO",ALB| TURBO CHANNEL
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116269
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SHOTA TV" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SHOTA.png" group-title="KOSOVO",ALB| SHOTA TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1035720
+#EXTINF:-1 tvg-id="" tvg-name="##### KO MOVIES & SERIES #####" tvg-logo="http://103.176.90.118/picons/logos/logos/KOSOVO.png" group-title="KOSOVO",##### KO MOVIES & SERIES #####
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1122025
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ART KINO PREMIUM 1 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ART.png" group-title="KOSOVO",ALB| ART KINO PREMIUM 1 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116297
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ART KINO PREMIUM 2 HD" tvg-logo="http://103.176.90.118/picons/logos/ART-TV.png" group-title="KOSOVO",ALB| ART KINO PREMIUM 2 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116298
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ART PRIME HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ART.png" group-title="KOSOVO",ALB| ART PRIME HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116300
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FILMBOX ARTHOUSE" tvg-logo="http://103.176.90.118/picons/logos/filmboxarthouse.png" group-title="KOSOVO",ALB| FILMBOX ARTHOUSE
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116091
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FILMBOX EXTRA" tvg-logo="http://103.176.90.118/picons/logos/filmboxextra.png" group-title="KOSOVO",ALB| FILMBOX EXTRA
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116092
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FILMBOX PLUS" tvg-logo="http://103.176.90.118/picons/logos/filmboxplus.png" group-title="KOSOVO",ALB| FILMBOX PLUS
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116093
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FILMBOX PREMIUM" tvg-logo="http://103.176.90.118/picons/logos/filmboxpremium.png" group-title="KOSOVO",ALB| FILMBOX PREMIUM
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116094
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KINO PREMIER 1 4K" tvg-logo="http://103.176.90.118/picons/logos/KINOPREMIERA-HD.jpg" group-title="KOSOVO",ALB| KINO PREMIER 1 4K
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116316
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KINO PREMIER 2 HD" tvg-logo="http://103.176.90.118/picons/logos/KINOPREMIERA-HD.jpg" group-title="KOSOVO",ALB| KINO PREMIER 2 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116317
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KINO FESTA HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KINO-FESTA.png" group-title="KOSOVO",ALB| KINO FESTA HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116311
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KINO HISTORY HD" tvg-logo="http://103.176.90.118/picons/logos/kinotv.png" group-title="KOSOVO",ALB| KINO HISTORY HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116312
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KINO SHQIP HD" tvg-logo="http://103.176.90.118/picons/logos/kinotv.png" group-title="KOSOVO",ALB| KINO SHQIP HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116310
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KINO STUPCAT HD" tvg-logo="http://103.176.90.118/picons/logos/kinotv.png" group-title="KOSOVO",ALB| KINO STUPCAT HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116321
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KINO THRILLER HD" tvg-logo="http://103.176.90.118/picons/logos/kinotv.png" group-title="KOSOVO",ALB| KINO THRILLER HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116322
+#EXTINF:-1 tvg-id="" tvg-name="ALB| Q ACTION HD" tvg-logo="http://103.176.90.118/picons/logos/Q-TV.jpg" group-title="KOSOVO",ALB| Q ACTION HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116151
+#EXTINF:-1 tvg-id="" tvg-name="ALB| Q DRAMA HD" tvg-logo="http://103.176.90.118/picons/logos/Q-TV.jpg" group-title="KOSOVO",ALB| Q DRAMA HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116154
+#EXTINF:-1 tvg-id="" tvg-name="ALB| Q KOMEDI HD" tvg-logo="http://103.176.90.118/picons/logos/Q-TV.jpg" group-title="KOSOVO",ALB| Q KOMEDI HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116157
+#EXTINF:-1 tvg-id="" tvg-name="ALB| Q MUZIKE SHQIP" tvg-logo="http://103.176.90.118/picons/logos/Q-TV.jpg" group-title="KOSOVO",ALB| Q MUZIKE SHQIP
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116156
+#EXTINF:-1 tvg-id="" tvg-name="ALB| Q POPULLORE HD" tvg-logo="http://103.176.90.118/picons/logos/Q-TV.jpg" group-title="KOSOVO",ALB| Q POPULLORE HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116158
+#EXTINF:-1 tvg-id="" tvg-name="ALB| Q PREMIUM 1 HD" tvg-logo="http://103.176.90.118/picons/logos/Q-TV.jpg" group-title="KOSOVO",ALB| Q PREMIUM 1 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116146
+#EXTINF:-1 tvg-id="" tvg-name="ALB| Q PREMIUM 2 HD" tvg-logo="http://103.176.90.118/picons/logos/Q-TV.jpg" group-title="KOSOVO",ALB| Q PREMIUM 2 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116147
+#EXTINF:-1 tvg-id="" tvg-name="ALB| Q STUPCAT HD" tvg-logo="http://103.176.90.118/picons/logos/Q-TV.jpg" group-title="KOSOVO",ALB| Q STUPCAT HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116161
+#EXTINF:-1 tvg-id="" tvg-name="ALB| Q THRILLER HD" tvg-logo="http://103.176.90.118/picons/logos/Q-TV.jpg" group-title="KOSOVO",ALB| Q THRILLER HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116152
+#EXTINF:-1 tvg-id="" tvg-name="ALB| Q WESTERN HD" tvg-logo="http://103.176.90.118/picons/logos/Q-TV.jpg" group-title="KOSOVO",ALB| Q WESTERN HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116163
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EURO FILM 1 HD" tvg-logo="http://103.176.90.118/picons/logos/EURO-CHANNEL.png" group-title="KOSOVO",ALB| EURO FILM 1 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116068
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EURO FILM 2 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/EURO-FILM.png" group-title="KOSOVO",ALB| EURO FILM 2 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116069
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EURO FILM 3 HD" tvg-logo="http://103.176.90.118/picons/logos/EURO-CHANNEL.png" group-title="KOSOVO",ALB| EURO FILM 3 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116070
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EURO FILM 4 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/EURO-FILM.png" group-title="KOSOVO",ALB| EURO FILM 4 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116071
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV PLISI ACTION HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TV-PLISI.png" group-title="KOSOVO",ALB| TV PLISI ACTION HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116198
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV PLISI FANTASY HD" tvg-logo="http://103.176.90.118/picons/logos/TV-PLISI.png" group-title="KOSOVO",ALB| TV PLISI FANTASY HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116200
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV PLISI HORROR HD" tvg-logo="http://103.176.90.118/picons/logos/TV-PLISI.png" group-title="KOSOVO",ALB| TV PLISI HORROR HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116202
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV PLISI HUMOR HD" tvg-logo="http://103.176.90.118/picons/logos/TV-PLISI.png" group-title="KOSOVO",ALB| TV PLISI HUMOR HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116203
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV PLISI QIFTELI HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TV-PLISI.png" group-title="KOSOVO",ALB| TV PLISI QIFTELI HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116204
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV PLISI THRILLER HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TV-PLISI.png" group-title="KOSOVO",ALB| TV PLISI THRILLER HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116205
+#EXTINF:-1 tvg-id="" tvg-name="ALB| X ACTION HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/XTV.png" group-title="KOSOVO",ALB| X ACTION HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116274
+#EXTINF:-1 tvg-id="" tvg-name="ALB| X CIFTELI HD" tvg-logo="http://103.176.90.118/picons/logos/X-TV.png" group-title="KOSOVO",ALB| X CIFTELI HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116275
+#EXTINF:-1 tvg-id="" tvg-name="ALB| X COMEDY HD" tvg-logo="http://103.176.90.118/picons/logos/X-TV.png" group-title="KOSOVO",ALB| X COMEDY HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116276
+#EXTINF:-1 tvg-id="" tvg-name="ALB| X DARK HD" tvg-logo="http://103.176.90.118/picons/logos/X-TV.png" group-title="KOSOVO",ALB| X DARK HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116277
+#EXTINF:-1 tvg-id="" tvg-name="ALB| X DRAMA HD" tvg-logo="http://103.176.90.118/picons/logos/X-TV.png" group-title="KOSOVO",ALB| X DRAMA HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116278
+#EXTINF:-1 tvg-id="" tvg-name="ALB| X FAMILY HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/XTV.png" group-title="KOSOVO",ALB| X FAMILY HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116279
+#EXTINF:-1 tvg-id="" tvg-name="ALB| X FILMA 24 HD" tvg-logo="http://103.176.90.118/picons/logos/FILMAX.png" group-title="KOSOVO",ALB| X FILMA 24 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116340
+#EXTINF:-1 tvg-id="" tvg-name="ALB| X HUMOR HD" tvg-logo="http://103.176.90.118/picons/logos/X-TV.png" group-title="KOSOVO",ALB| X HUMOR HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116281
+#EXTINF:-1 tvg-id="" tvg-name="ALB| X MUSIC HITS HD" tvg-logo="http://103.176.90.118/picons/logos/X-TV.png" group-title="KOSOVO",ALB| X MUSIC HITS HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116282
+#EXTINF:-1 tvg-id="" tvg-name="ALB| X THRILLER HD" tvg-logo="http://103.176.90.118/picons/logos/X-TV.png" group-title="KOSOVO",ALB| X THRILLER HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116292
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TELE ONE 1 HD" tvg-logo="http://103.176.90.118/picons/logos/tele1.jpg" group-title="KOSOVO",ALB| TELE ONE 1 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/160693
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TELE ONE 2 HD" tvg-logo="http://103.176.90.118/picons/logos/tele1.jpg" group-title="KOSOVO",ALB| TELE ONE 2 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/160694
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TELE ONE 3 HD" tvg-logo="http://103.176.90.118/picons/logos/tele1.jpg" group-title="KOSOVO",ALB| TELE ONE 3 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/160695
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TELE ONE 4 HD" tvg-logo="http://103.176.90.118/picons/logos/tele1.jpg" group-title="KOSOVO",ALB| TELE ONE 4 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/160696
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TELE ONE 5 HD" tvg-logo="http://103.176.90.118/picons/logos/tele5.png" group-title="KOSOVO",ALB| TELE ONE 5 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/160697
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TELE ONE 6 HD" tvg-logo="http://103.176.90.118/picons/logos/tele1.jpg" group-title="KOSOVO",ALB| TELE ONE 6 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/160698
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PITO HUMOR HD" tvg-logo="http://103.176.90.118/picons/logos/PITO-.png" group-title="KOSOVO",ALB| PITO HUMOR HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116343
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PITO LOL HD" tvg-logo="http://103.176.90.118/picons/logos/PITO-.png" group-title="KOSOVO",ALB| PITO LOL HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116344
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FAST & FURIOUS 24/7 FHD" tvg-logo="http://103.176.90.118/picons/logos/FAST-&-FURIOUS.png" group-title="KOSOVO",ALB| FAST & FURIOUS 24/7 FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/467709
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KAFENEJA JONE 24/7 HD" tvg-logo="http://103.176.90.118/picons/logos/KAFENEJA-JONE.jpeg" group-title="KOSOVO",ALB| KAFENEJA JONE 24/7 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/467655
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KS FILMA24 KRIM" tvg-logo="http://103.176.90.118/picons/logos/KS-TV.png" group-title="KOSOVO",ALB| KS FILMA24 KRIM
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/467667
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KS FILMA24 MISTER" tvg-logo="http://103.176.90.118/picons/logos/KS-TV.png" group-title="KOSOVO",ALB| KS FILMA24 MISTER
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/467665
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KS FILMA24 ROMANCE" tvg-logo="http://103.176.90.118/picons/logos/KS-TV.png" group-title="KOSOVO",ALB| KS FILMA24 ROMANCE
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/467669
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KS FILMA24 TRILLER" tvg-logo="http://103.176.90.118/picons/logos/KS-TV.png" group-title="KOSOVO",ALB| KS FILMA24 TRILLER
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/467666
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KS STUPCAT FHD" tvg-logo="http://103.176.90.118/picons/logos/KS-TV.png" group-title="KOSOVO",ALB| KS STUPCAT FHD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/467652
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KS THRILLER HD" tvg-logo="http://103.176.90.118/picons/logos/KS-TV.png" group-title="KOSOVO",ALB| KS THRILLER HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/467691
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FIRST DRAME HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FIRST-DRAME.png" group-title="KOSOVO",ALB| FIRST DRAME HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/167300
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FIRST COMEDY HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FIRST-COMEDY.png" group-title="KOSOVO",ALB| FIRST COMEDY HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/167299
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SKY 7" tvg-logo="http://103.176.90.118/picons/logos/sky.png" group-title="KOSOVO",ALB| SKY 7
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116164
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SKY AKSION" tvg-logo="http://103.176.90.118/picons/logos/sky.png" group-title="KOSOVO",ALB| SKY AKSION
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116165
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SKY COMEDY" tvg-logo="http://103.176.90.118/picons/logos/skycomedy.png" group-title="KOSOVO",ALB| SKY COMEDY
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116167
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SKY DRAME" tvg-logo="http://103.176.90.118/picons/logos/skydrama.png" group-title="KOSOVO",ALB| SKY DRAME
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116166
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SKY MAX" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-MAX.png" group-title="KOSOVO",ALB| SKY MAX
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116168
+#EXTINF:-1 tvg-id="" tvg-name="##### ISLAM #####" tvg-logo="http://103.176.90.118/picons/logos/logos/KOSOVO.png" group-title="KOSOVO",##### ISLAM #####
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/196716
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ISLAM CHANNEL 2 HD" tvg-logo="http://103.176.90.118/picons/logos/islamchannel.png" group-title="KOSOVO",ALB| ISLAM CHANNEL 2 HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116098
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV 1 ISLAM" tvg-logo="" group-title="KOSOVO",ALB| RTV 1 ISLAM
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116227
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ICE ISLAM HD" tvg-logo="http://103.176.90.118/picons/logos/ICE-ISLAM.jpg" group-title="KOSOVO",ALB| ICE ISLAM HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116241
+#EXTINF:-1 tvg-id="" tvg-name="ALB| MEDINE LIVE" tvg-logo="http://103.176.90.118/picons/logos/MEDINE-LIVE.jpeg" group-title="KOSOVO",ALB| MEDINE LIVE
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116261
+#EXTINF:-1 tvg-id="" tvg-name="ALB| MEKKE LIVE HD" tvg-logo="http://103.176.90.118/picons/logos/MEKKE-LIVE.png" group-title="KOSOVO",ALB| MEKKE LIVE HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116262
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PEACE TV" tvg-logo="http://103.176.90.118/picons/logos/peacetv.png" group-title="KOSOVO",ALB| PEACE TV
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116265
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV ISLAM" tvg-logo="http://103.176.90.118/picons/logos/RTV-ISLAM.png" group-title="KOSOVO",ALB| RTV ISLAM
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116267
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DH TV HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DH-TV.png" group-title="KOSOVO",ALB| DH TV HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116061
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV PENDIMI HD" tvg-logo="http://103.176.90.118/picons/logos/RTV-PENDIMI.jpeg" group-title="ALBANIA",ALB| RTV PENDIMI HD
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/116268
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV-SHQIP ELKALEM" tvg-logo="http://103.176.90.118/picons/logos/RTV-SHQIP-ELKALEM.jpeg" group-title="KOSOVO",ALB| RTV-SHQIP ELKALEM
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/921829
+#EXTINF:-1 tvg-id="" tvg-name="##### KO CHILDREN #####" tvg-logo="http://103.176.90.118/picons/logos/logos/KOSOVO.png" group-title="KOSOVO",##### KO CHILDREN #####
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1292942
+#EXTINF:-1 tvg-id="" tvg-name="####### ALBANIA PREMIUM ᴿᴬᵂ #######" tvg-logo="http://51.158.145.100/picons/logos/logos/ALBANIA.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",####### ALBANIA PREMIUM ᴿᴬᵂ #######
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720032
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTK 1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/rtk1.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTK 1 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720031
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTK 2 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/rtk2.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTK 2 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720030
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KLAN KOSOVA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/klankosova.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| KLAN KOSOVA ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720029
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV 21 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/rtv21.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTV 21 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720028
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KTV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/KTV.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| KTV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720027
+#EXTINF:-1 tvg-id="" tvg-name="ALB| T7 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/t7.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| T7 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720026
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ALSAT M ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/alsatm.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| ALSAT M ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720025
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DUKAGJINI ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/dukagjini.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DUKAGJINI ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720024
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TËVË1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TEVE-1.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TËVË1 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720023
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TOP CHANNEL ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/topchannel.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TOP CHANNEL ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720022
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KLAN ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/klan.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| KLAN ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720021
+#EXTINF:-1 tvg-id="" tvg-name="ALB| VIZION PLUS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/vizionplus.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| VIZION PLUS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720020
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KANAL 10 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/KANAL-10.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| KANAL 10 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720019
+#EXTINF:-1 tvg-id="" tvg-name="ALB| A TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/atv.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| A TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720018
+#EXTINF:-1 tvg-id="" tvg-name="ALB| D TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DTV.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| D TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720017
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PRO1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/PRO-1.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| PRO1 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720016
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 20 DIGITALB ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/digitalb.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| 20 DIGITALB ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720015
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTSH 1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/rtsh1.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTSH 1 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720014
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTSH 3 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/rtsh3.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTSH 3 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720013
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTSH SHQIP ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/rtshshqip.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTSH SHQIP ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720012
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTSH 24 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/rtsh24.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTSH 24 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720011
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTSH PLUS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/rtshplus.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTSH PLUS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720010
+#EXTINF:-1 tvg-id="" tvg-name="ALB| MCN ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/MCN.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| MCN ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720009
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTSH 2 ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/rtsh2hd.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTSH 2 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720008
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV PRIZRENI ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TV-PRIZRENI.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TV PRIZRENI ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720007
+#EXTINF:-1 tvg-id="" tvg-name="ALB| STAR PLUS ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/starplus.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| STAR PLUS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720006
+#EXTINF:-1 tvg-id="" tvg-name="ALB| NEWS 24 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/news24.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| NEWS 24 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720005
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV LIRIA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TV-LIRIA.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TV LIRIA ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720004
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV TEMA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/TEMA%20TV.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TV TEMA ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720001
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV MITROVICA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TV-MITROVICA.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TV MITROVICA ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720000
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SYRI TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/syri.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| SYRI TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719999
+#EXTINF:-1 tvg-id="" tvg-name="ALB| BESA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TV-BESA.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| BESA ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719998
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARTA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/arta.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| ARTA ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719997
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ATD TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/ATD.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| ATD TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719996
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ALBUK ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/albuk.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| ALBUK ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719995
+#EXTINF:-1 tvg-id="" tvg-name="ALB| LLAPI TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/LLAPI.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| LLAPI TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719994
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV 21 MK ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/rtv21.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTV 21 MK ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719993
+#EXTINF:-1 tvg-id="" tvg-name="ALB| E-TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/etv.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| E-TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719992
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FIRST CHANNEL ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/firstchannel.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| FIRST CHANNEL ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719991
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTK 4 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/rtk4.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTK 4 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719990
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTK 3 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/rtk3.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTK 3 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719989
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV TEUTA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TV-TEUTA.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TV TEUTA ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719988
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV KOPLIKU ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/TV%20Kopliku.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TV KOPLIKU ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719987
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV LEZHA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/LEZHA.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TV LEZHA ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719986
+#EXTINF:-1 tvg-id="" tvg-name="ALB| LUXE TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/LUXE.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| LUXE TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719985
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SHENJA TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TV-SHENJA.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| SHENJA TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719984
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV SKAMPA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/SKAMPA.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TV SKAMPA ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719983
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ZJARR TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ZJARR%20TV.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| ZJARR TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719982
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PEACE TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/PEACE.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| PEACE TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719981
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV PENDIMI ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/RTV-PENDIMI.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTV PENDIMI ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719980
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTI ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/RTI.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTI ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719979
+#EXTINF:-1 tvg-id="" tvg-name="ALB| MEKA LIVE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/MEKALIVE.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| MEKA LIVE ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719978
+#EXTINF:-1 tvg-id="" tvg-name="ALB| MEDINA LIVE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/MEDINA-LIVE.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| MEDINA LIVE ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719977
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TV OPOJA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TV-OPOJA.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TV OPOJA ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719976
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV ISLAM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/RTV-ISLAM.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTV ISLAM ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719975
+#EXTINF:-1 tvg-id="" tvg-name="ALB| GOLD ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/gold.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| GOLD ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719974
+#EXTINF:-1 tvg-id="" tvg-name="ALB| MAX ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/max.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| MAX ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719973
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FAMILY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/familytv.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| FAMILY ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719972
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EUROFILM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/EUROFILM.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| EUROFILM ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719971
+#EXTINF:-1 tvg-id="" tvg-name="ALB| AUTOR ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/AUTOR.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| AUTOR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719970
+#EXTINF:-1 tvg-id="" tvg-name="ALB| HITS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/HITS.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| HITS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719969
+#EXTINF:-1 tvg-id="" tvg-name="ALB| THRILLER ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/THRILLER.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| THRILLER ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719968
+#EXTINF:-1 tvg-id="" tvg-name="ALB| AKSION ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/FILMAKSION.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| AKSION ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719967
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KOMEDI ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/comedi.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| KOMEDI ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719966
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DRAMË ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/FILMDRAME.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DRAMË ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719965
+#EXTINF:-1 tvg-id="" tvg-name="ALB| STINËT ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/stinet.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| STINËT ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719964
+#EXTINF:-1 tvg-id="" tvg-name="ALB| T ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/T-tv.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| T ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719963
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TDC DIZI ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DIZI-TDC.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TDC DIZI ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719962
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KINO 1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/kinotv.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| KINO 1 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719961
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KINO 2 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/kinotv.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| KINO 2 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719960
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KINO 3 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/kinotv.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| KINO 3 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719959
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PREMIERE 1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE-1.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| PREMIERE 1 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719958
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PREMIERE 2 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE-2.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| PREMIERE 2 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719957
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PREMIERE 3 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE-3.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| PREMIERE 3 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719956
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PREMIERE 4 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIERE-4.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| PREMIERE 4 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719955
+#EXTINF:-1 tvg-id="" tvg-name="ALB| STAR MOVIES ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/STAR-MOVIES.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| STAR MOVIES ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719954
+#EXTINF:-1 tvg-id="" tvg-name="ALB| STAR CHANNEL ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/STAR-CHANNEL.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| STAR CHANNEL ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719953
+#EXTINF:-1 tvg-id="" tvg-name="ALB| STAR LIFE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/STAR-LIFE.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| STAR LIFE ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719952
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PRIME ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/prime.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| PRIME ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719951
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EPISODE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/EPISODE.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| EPISODE ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719950
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING 3+ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TRING 3+ ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719949
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KANAL D DRAMA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/kanalddrama.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| KANAL D DRAMA ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719948
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SMILE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/smile.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| SMILE ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719947
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING FAMILY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TRING FAMILY ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719946
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING SHQIP ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TRING SHQIP ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719945
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING SUPER ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TRING SUPER ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719944
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING ACTION ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TRING ACTION ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719943
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING LIFE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TRING LIFE ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719942
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING COMEDY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TRING COMEDY ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719941
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING FANTASY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TRING FANTASY ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719940
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING COLLECTION ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TRING COLLECTION ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719939
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING CLASSIC ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TRING CLASSIC ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719938
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING SERIES ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TRING SERIES ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719937
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING TURKISH STORIES ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TRING TURKISH STORIES ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719936
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING NOVELAS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TRING NOVELAS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719935
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTSH FILM ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/rtshfilm.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTSH FILM ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719934
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK PRIME 1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK PRIME 1 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719933
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK PRIME 2 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK PRIME 2 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719932
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK PRIME 3 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK PRIME 3 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719931
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK PRIME 4 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK PRIME 4 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719930
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK GOLD 1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK GOLD 1 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719929
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK GOLD 2 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK GOLD 2 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719928
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK GOLD 3 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK GOLD 3 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719927
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK GOLD 4 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK GOLD 4 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719926
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK NETFLIX 1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK NETFLIX 1 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719925
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK NETFLIX 2 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK NETFLIX 2 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719924
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK NETFLIX 3 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK NETFLIX 3 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719923
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK NETFLIX 4 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK NETFLIX 4 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719922
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK AKSION ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK AKSION ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719921
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK THRILLER ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK THRILLER ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719920
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK DELUXE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK DELUXE ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719919
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK SPECIAL ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK SPECIAL ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719918
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK KOMEDI ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK KOMEDI ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719917
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK HORROR ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK HORROR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719916
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK WESTERN ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK WESTERN ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719915
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK KLASIKE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK KLASIKE ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719914
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK FAMILJE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK FAMILJE ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719913
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK FANTAZI ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK FANTAZI ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719912
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK ROMANCE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK ROMANCE ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719911
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK HINDI ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK HINDI ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719910
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DARK SHQIP ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/DARK.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DARK SHQIP ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719909
+#EXTINF:-1 tvg-id="" tvg-name="ALB| BANG BANG ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/bangbang.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| BANG BANG ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719908
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ÇUFO ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/cufo.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| ÇUFO ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719907
+#EXTINF:-1 tvg-id="" tvg-name="ALB| JUNIOR ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/junior.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| JUNIOR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719906
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PRINCE KIDS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/KIDS.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| PRINCE KIDS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719905
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TAO TAO ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TAOTAO.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TAO TAO ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719904
+#EXTINF:-1 tvg-id="" tvg-name="ALB| A KIDS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/KIDS-KIDS.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| A KIDS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719903
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING TRING ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING-TRING.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TRING TRING ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719902
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING KIDS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING-KIDS.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TRING KIDS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719901
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TIP TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/tiptv.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TIP TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719900
+#EXTINF:-1 tvg-id="" tvg-name="ALB| BUBBLE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/BUBBLE.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| BUBBLE ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719899
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV 21 JUNIOR ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/RTV21-JUNIOR.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTV 21 JUNIOR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719898
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SOFIA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/SOFIA.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| SOFIA ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719897
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTSH FEMIJ ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/rtshfemije.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTSH FEMIJ ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719896
+#EXTINF:-1 tvg-id="" tvg-name="ALB| 7 NEWS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/7NEWS.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| 7 NEWS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719895
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FAX NEWS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/faxnews.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| FAX NEWS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719894
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ORIGINAL ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ORIGINAL.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| ORIGINAL ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719893
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SYRI ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/syri.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| SYRI ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719892
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TOP NEWS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/topnews.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TOP NEWS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719891
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KLAN PLUS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/klanplus.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| KLAN PLUS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719889
+#EXTINF:-1 tvg-id="" tvg-name="ALB| A2 CNN ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/a2cnn.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| A2 CNN ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719888
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EURONEWS ALBANIA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/euronewsalbania.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| EURONEWS ALBANIA ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719887
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ABC NEWS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/abcnews.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| ABC NEWS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719886
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PANORAMA TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/PANORAMA.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| PANORAMA TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719885
+#EXTINF:-1 tvg-id="" tvg-name="ALB| REPORT TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/reporttv.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| REPORT TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719884
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KLAN NEWS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/KLAN.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| KLAN NEWS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719883
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SCAN TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/scantv.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| SCAN TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719882
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EXPLORER SHKENCË ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/EXPLORER-SHKENCE.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| EXPLORER SHKENCË ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719881
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EXPLORER HISTORI ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/EXPLORERHISTORI.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| EXPLORER HISTORI ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719880
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EXPLORER NATYRA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/EXPLORERNATYRA.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| EXPLORER NATYRA ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719879
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING HISTORY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TRING HISTORY ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719878
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING PLANET ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TRING PLANET ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719877
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING WORLD ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TRING WORLD ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719876
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DOKU 1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/DOKU.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DOKU 1 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719875
+#EXTINF:-1 tvg-id="" tvg-name="ALB| DOKU 2 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/DOKU.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| DOKU 2 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719874
+#EXTINF:-1 tvg-id="" tvg-name="ALB| LIVING ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/living.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| LIVING ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719873
+#EXTINF:-1 tvg-id="" tvg-name="ALB| MUSE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/MUSE.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| MUSE ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719872
+#EXTINF:-1 tvg-id="" tvg-name="ALB| GURMANIA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/GURMANIA.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| GURMANIA ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719871
+#EXTINF:-1 tvg-id="" tvg-name="ALB| PREMIUM CHANNEL ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/PREMIUM-CHANNEL.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| PREMIUM CHANNEL ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719870
+#EXTINF:-1 tvg-id="" tvg-name="ALB| LIFE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/lifetv.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| LIFE ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719869
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TERRA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/terra.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TERRA ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719868
+#EXTINF:-1 tvg-id="" tvg-name="ALB| BEAT TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/beattv.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| BEAT TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719867
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTSH MUZIKË ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/rtshmuzike.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTSH MUZIKË ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719866
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV 21 PLUS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/rtv21.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTV 21 PLUS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719865
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV 21 POPULLORE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/rtv21.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTV 21 POPULLORE ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719864
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTV 21 MIX ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/rtv21.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| RTV 21 MIX ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719863
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ZICO TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/zicotv.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| ZICO TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719862
+#EXTINF:-1 tvg-id="" tvg-name="ALB| NTV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/NTV.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| NTV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719861
+#EXTINF:-1 tvg-id="" tvg-name="ALB| CLUB TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/clubtv.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| CLUB TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719860
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ELRODI ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/ELRODI.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| ELRODI ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719859
+#EXTINF:-1 tvg-id="" tvg-name="ALB| FOLK+ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/folkplus.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| FOLK+ ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719858
+#EXTINF:-1 tvg-id="" tvg-name="ALB| CLICK MUSIC ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/click.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| CLICK MUSIC ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719857
+#EXTINF:-1 tvg-id="" tvg-name="ALB| BBF ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/bbf.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| BBF ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719856
+#EXTINF:-1 tvg-id="" tvg-name="ALB| POSITIVE GOLD ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/gold.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| POSITIVE GOLD ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719855
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUITE TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/SUITE.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| SUITE TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719854
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRAVELINGO ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRAVELINGO.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TRAVELINGO ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719853
+#EXTINF:-1 tvg-id="" tvg-name="ALB| MY MUSIC ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/MUSIC.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| MY MUSIC ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719852
+#EXTINF:-1 tvg-id="" tvg-name="ALB| KLAN MUSIC ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/KLAN-MUSIC.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| KLAN MUSIC ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719851
+#EXTINF:-1 tvg-id="" tvg-name="ALB| STV FOLK ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/stvfolk.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| STV FOLK ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719849
+#EXTINF:-1 tvg-id="" tvg-name="ALB| BALKANIKA MUSIC TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/BALKANIKA-MUSIC.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| BALKANIKA MUSIC TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719848
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TURBO CHANNEL ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TURBO-CHANNEL.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| TURBO CHANNEL ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719847
+#EXTINF:-1 tvg-id="" tvg-name="ALB| AMOL TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/AMOL.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| AMOL TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719846
+#EXTINF:-1 tvg-id="" tvg-name="ALB| IN TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/intv.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| IN TV ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719845
+#EXTINF:-1 tvg-id="" tvg-name="ALB| MTV KOSOVA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/MTV-KOSOVA.png" group-title="ALBANIA PREMIUM ᴿᴬᵂ",ALB| MTV KOSOVA ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1719844
+#EXTINF:-1 tvg-id="" tvg-name="####### SPORT PREMIUM ᴿᴬᵂ #######" tvg-logo="http://51.158.145.100/picons/logos/logos/ALBANIA.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",####### SPORT PREMIUM ᴿᴬᵂ #######
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720121
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT 1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/supersport1.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SUPERSPORT 1 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720120
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT 2 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/supersport2.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SUPERSPORT 2 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720119
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT 3 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/supersport3.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SUPERSPORT 3 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720118
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT 4 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/supersport4.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SUPERSPORT 4 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720117
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT 5 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/supersport5.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SUPERSPORT 5 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720116
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT 6 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/supersport6.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SUPERSPORT 6 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720115
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT 7 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/supersport7.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SUPERSPORT 7 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720114
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT KOSOVA 1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/SUPER-SPORT-KOSOVA-1.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SUPERSPORT KOSOVA 1 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720113
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT KOSOVA 2 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/SUPER-SPORT-KOSOVA-2.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SUPERSPORT KOSOVA 2 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720112
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT KOSOVA 3 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/SUPERSPORT-KOSOVA-3.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SUPERSPORT KOSOVA 3 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720111
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT 1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/bein/SPORT1.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SPORT 1 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720110
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT 2 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/bein/SPORT2.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SPORT 2 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720109
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT 3 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/bein/SPORT3.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SPORT 3 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720108
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT 4 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/bein/SPORT4.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SPORT 4 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720107
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT 5 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/bein/SPORT5.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SPORT 5 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720106
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT 6 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/bein/SPORT6.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SPORT 6 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720105
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING SPORT NEWS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRINGSPORTNEWS.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| TRING SPORT NEWS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720104
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING SPORT 1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/bein/TRING-SPORT-1.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| TRING SPORT 1 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720103
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING SPORT 2 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING-SPORT-2.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| TRING SPORT 2 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720102
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING SPORT 3 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING-SPORT.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| TRING SPORT 3 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720101
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING SPORT 4 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING-SPORT-4.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| TRING SPORT 4 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720100
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING SPORT 5 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/TRING-SPORT.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| TRING SPORT 5 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720099
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/K-SPORT-1.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| K SPORT 1 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720098
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 2 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/K-SPORT-2.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| K SPORT 2 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720097
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 3 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/K-SPORT-3.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| K SPORT 3 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720096
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 4 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/K-SPORT-4.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| K SPORT 4 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720095
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 5 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/K-SPORT-5.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| K SPORT 5 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720094
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTSH SPORT ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/rtshsport.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| RTSH SPORT ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720093
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EUROSPORT 1 ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/eurosport1.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| EUROSPORT 1 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720092
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EUROSPORT 2 ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/eurosport2.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| EUROSPORT 2 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720091
+#EXTINF:-1 tvg-id="" tvg-name="ALB| MCN 24 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/MCNTV-24.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| MCN 24 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720090
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 1 RS ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport1hr.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORT 1 RS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720089
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 2 RS ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport2.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORT 2 RS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720088
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 3 RS ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport3.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORT 3 RS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720087
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 4 RS ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport4.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORT 4 RS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720086
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 5 RS ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport5.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORT 5 RS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720085
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 6 RS ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport6.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORT 6 RS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720084
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 7 RS ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport7.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORT 7 RS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720083
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 8 RS ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport8.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORT 8 RS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720082
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 9 RS ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport9hd.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORT 9 RS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720081
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 10 RS ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport10hd.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORT 10 RS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720080
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 1 PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ARENA-SPORT-PREMIUM-1.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORT 1 PREMIUM ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720079
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 2 PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ARENA-SPORT-PREMIUM-2.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORT 2 PREMIUM ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720078
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 3 PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ARENA-SPORT-PREMIUM-3.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORT 3 PREMIUM ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720077
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 1X2 ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport1x2.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORT 1X2 ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720076
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA FIGHT ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenafight.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA FIGHT ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720075
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 1 HR ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport1.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORTS 1 HR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720074
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 2 HR ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport2.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORTS 2 HR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720073
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 3 HR ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport3.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORTS 3 HR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720072
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 4 HR ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport4.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORTS 4 HR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720071
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 5 HR ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport5.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORTS 5 HR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720070
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 6 HR ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport6.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORTS 6 HR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720069
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 7 HR ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport7.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORTS 7 HR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720068
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 8 HR ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport8.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORTS 8 HR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720067
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 9 HR ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport9hd.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORTS 9 HR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720066
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 10 HR ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport10hd.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| ARENA SPORTS 10 HR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720065
+#EXTINF:-1 tvg-id="" tvg-name="ALB| MAX SPORT 1 HR ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/maxsport1.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| MAX SPORT 1 HR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720064
+#EXTINF:-1 tvg-id="" tvg-name="ALB| MAX SPORT 2 HR ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/maxsport2.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| MAX SPORT 2 HR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720063
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 1 RS ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/sportklub1.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SPORT KLUB 1 RS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720062
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 2 RS ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/sportklub2.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SPORT KLUB 2 RS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720061
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 3 RS  ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/sportklub3.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SPORT KLUB 3 RS  ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720060
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 4 RS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SPORT-KLUB-4.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SPORT KLUB 4 RS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720059
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 5 RS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SPORT-KLUB-5.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SPORT KLUB 5 RS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720058
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 6 RS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SPORT-KLUB-6.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SPORT KLUB 6 RS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720057
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 7 RS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/SPORT-KLUB-7.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SPORT KLUB 7 RS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720056
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 8 RS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/SPORT-KLUB-8.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SPORT KLUB 8 RS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720055
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 9 RS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/SPORT-KLUB-9.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SPORT KLUB 9 RS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720054
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 10 RS ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/sportklubhd.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SPORT KLUB 10 RS ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720053
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SK FIGHT ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/skfight.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SK FIGHT ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720052
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 1 HR ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/sportklub1.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SPORT KLUB 1 HR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720051
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 2 HR ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/sportklub2.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SPORT KLUB 2 HR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720050
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 3 HR ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/sportklub3.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| SPORT KLUB 3 HR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720049
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EUROSPORT 1 HR ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/eurosport1.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| EUROSPORT 1 HR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720048
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EUROSPORT 2 HR ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/eurosport2.png" group-title="ALBANIA SPORT PREMIUM ᴿᴬᵂ",ALB| EUROSPORT 2 HR ᴿᴬᵂ
+http://trendystream.me:80/95ebe0d4e0/677e64c5b929/1720047
